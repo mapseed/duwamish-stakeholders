@@ -66,8 +66,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.359294,
-          47.570654
+          -122.3582553864,
+          47.5613532442
         ]
       }
     },
@@ -2175,7 +2175,7 @@
       "type": "Feature",
       "properties": {
         "title": "9 floodplains",
-        "description": "<h1>9 floodplains</h1><p>Floodplains by Design. Partnership of WA DOE, TNC, USGS, and PSP. In 2013, WA state legislature approved an initial $33 million to support 9 floodplains by design projects around Puget Sound. Each project will be conducted by a partnership of organizations.</p>",
+        "description": "<h1>9 floodplains</h1><h3>Lead organization:</h3>The Nature Conservancy<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Floodplains by Design. Partnership of WA DOE, TNC, USGS, and PSP. In 2013, WA state legislature approved an initial $33 million to support 9 floodplains by design projects around Puget Sound. Each project will be conducted by a partnership of organizations.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "industrial",
@@ -2201,8 +2201,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.42460250854492,
-          47.57351473351715
+          -122.4246025085,
+          47.5735147335
         ]
       }
     },
@@ -2210,7 +2210,7 @@
       "type": "Feature",
       "properties": {
         "title": "Marysville to Brown's Point",
-        "description": "<h1>Marysville to Brown's Point</h1><p>Phase I included the highly developed eastern shoreline of PS between Marysville and Brown's Point north of Tacoma - including the tidally influenced portions of the Duwamish and Snohomish Rivers. The area for Phase II of the study is still to be determined.</p>",
+        "description": "<h1>Marysville to Brown's Point</h1><h3>Lead organization:</h3>Army Corps of Engineers<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Phase I included the highly developed eastern shoreline of PS between Marysville and Brown's Point north of Tacoma - including the tidally influenced portions of the Duwamish and Snohomish Rivers. The area for Phase II of the study is still to be determined.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "industrial",
@@ -2245,7 +2245,7 @@
       "type": "Feature",
       "properties": {
         "title": "Longfellow Creek",
-        "description": "<h1>Longfellow Creek</h1><p>Levy provides funding for Green Seattle Partnership  to restore forested park land. The West Duwamish Greenbelt is over 800 and the largest contiguous forest in Seattle. Longfellow Creek greenspace is also a project in the watershed.</p>",
+        "description": "<h1>Longfellow Creek</h1><h3>Lead organization:</h3>Seattle Parks<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Levy provides funding for Green Seattle Partnership  to restore forested park land. The West Duwamish Greenbelt is over 800 and the largest contiguous forest in Seattle. Longfellow Creek greenspace is also a project in the watershed.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "danger",
@@ -2280,7 +2280,7 @@
       "type": "Feature",
       "properties": {
         "title": "Kenco/City Light South",
-        "description": "<h1>Kenco/City Light South</h1><p>\"Kenco/City Light South\" site</p>",
+        "description": "<h1>Kenco/City Light South</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>\"Kenco/City Light South\" site</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "industrial",
@@ -2315,7 +2315,7 @@
       "type": "Feature",
       "properties": {
         "title": "Seattle City Light – Sea Tac",
-        "description": "<h1>Seattle City Light – Sea Tac</h1><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
+        "description": "<h1>Seattle City Light � Sea Tac</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "industrial",
@@ -2350,7 +2350,7 @@
       "type": "Feature",
       "properties": {
         "title": "Seattle City Light – 23rd Ave",
-        "description": "<h1>Seattle City Light – 23rd Ave</h1><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
+        "description": "<h1>Seattle City Light � 23rd Ave</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "industrial",
@@ -2385,7 +2385,7 @@
       "type": "Feature",
       "properties": {
         "title": "Seattle City Light – Andover",
-        "description": "<h1>Seattle City Light – Andover</h1><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
+        "description": "<h1>Seattle City Light � Andover</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "industrial",
@@ -2420,7 +2420,7 @@
       "type": "Feature",
       "properties": {
         "title": "Seattle City Light - Holdin",
-        "description": "<h1>Seattle City Light - Holdin</h1><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
+        "description": "<h1>Seattle City Light - Holdin</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "industrial",
@@ -2455,7 +2455,7 @@
       "type": "Feature",
       "properties": {
         "title": "Seattle City Light – 9th Ave",
-        "description": "<h1>Seattle City Light – 9th Ave</h1><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
+        "description": "<h1>Seattle City Light � 9th Ave</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "industrial",
@@ -2490,7 +2490,7 @@
       "type": "Feature",
       "properties": {
         "title": "Seattle City Light Parcels",
-        "description": "<h1>Seattle City Light Parcels</h1><p>Seattle City Light has developed a comprehensive program to address the needs of wildlife that are affected by their operations. In the Land Management Program, City Light purchases key parcels of land for wildlife habitat.</p>",
+        "description": "<h1>Seattle City Light Parcels</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Seattle City Light has developed a comprehensive program to address the needs of wildlife that are affected by their operations. In the Land Management Program, City Light purchases key parcels of land for wildlife habitat.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "industrial",
@@ -2516,8 +2516,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40709304809572,
-          47.58011550235791
+          -122.4070930481,
+          47.5801155024
         ]
       }
     },
@@ -2525,7 +2525,7 @@
       "type": "Feature",
       "properties": {
         "title": "Turning basin site owned by Seattle City Light, adjacent to Boeing Company office complex",
-        "description": "<h1>Turning basin site owned by Seattle City Light, adjacent to Boeing Company office complex</h1><p>Turning basin site owned by Seattle City Light, adjacent to Boeing Company office complex</p>",
+        "description": "<h1>Turning basin site owned by Seattle City Light, adjacent to Boeing Company office complex</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Turning basin site owned by Seattle City Light, adjacent to Boeing Company office complex</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "industrial",
@@ -2551,8 +2551,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.41224288940428,
-          47.578841734571306
+          -122.4122428894,
+          47.5788417346
         ]
       }
     },
@@ -2560,7 +2560,7 @@
       "type": "Feature",
       "properties": {
         "title": "Lower Fauntleroy Creek",
-        "description": "<h1>Lower Fauntleroy Creek</h1><p>Lower Fauntleroy Creek and Estuary Water Quality and Habitat Enhancements: • Restored 895 sq ft of stream channel. Reconfigured the channel along the lower 200 feet of Fauntleroy Creek.• Installed over 1,400 native plants along the 9 ft riparian area on either side of the channel, for a total of 2,690 sq ft. The property owners planted hundreds more.• Treated a small patch of reed canary grass• Over 90 coho salmon have been seen using the channel in a single season since the restoration of the channel.</p>",
+        "description": "<h1>Lower Fauntleroy Creek</h1><h3>Lead organization:</h3>Seattle Public Utilities<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Lower Fauntleroy Creek and Estuary Water Quality and Habitat Enhancements: � Restored 895 sq ft of stream channel. Reconfigured the channel along the lower 200 feet of Fauntleroy Creek.� Installed over 1,400 native plants along the 9 ft riparian area on either side of the channel, for a total of 2,690 sq ft. The property owners planted hundreds more.� Treated a small patch of reed canary grass� Over 90 coho salmon have been seen using the channel in a single season since the restoration of the channel.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "swimming",
@@ -2595,7 +2595,7 @@
       "type": "Feature",
       "properties": {
         "title": "Terminal 108",
-        "description": "<h1>Terminal 108</h1><p>Diagonal Avenue South, Terminal 108. Created marsh, installed riparian vegetation.</p>",
+        "description": "<h1>Terminal 108</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Diagonal Avenue South, Terminal 108. Created marsh, installed riparian vegetation.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "swimming",
@@ -2621,8 +2621,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.31422424316405,
-          47.52160603320274
+          -122.3142242432,
+          47.5216060332
         ]
       }
     },
@@ -2630,7 +2630,7 @@
       "type": "Feature",
       "properties": {
         "title": "Duwamish River Habitat Maintenance and Monitoring",
-        "description": "<h1>Duwamish River Habitat Maintenance and Monitoring</h1><p>Duwamish River Habitat Maintenance and Monitoring</p>",
+        "description": "<h1>Duwamish River Habitat Maintenance and Monitoring</h1><h3>Lead organization:</h3>The Nature Consortium<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Duwamish River Habitat Maintenance and Monitoring</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "swimming",
@@ -2665,7 +2665,7 @@
       "type": "Feature",
       "properties": {
         "title": "Terminal 105",
-        "description": "<h1>Terminal 105</h1><p>Terminal 105 Public Access Site. Created or restored marsh, installed riparian vegetation, removed fill.</p>",
+        "description": "<h1>Terminal 105</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Terminal 105 Public Access Site. Created or restored marsh, installed riparian vegetation, removed fill.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "swimming",
@@ -2700,7 +2700,7 @@
       "type": "Feature",
       "properties": {
         "title": "Kuhlmann-Thomas Creek",
-        "description": "<h1>Kuhlmann-Thomas Creek</h1><p>Kuhlmann-Thomas Creek R6. WFC will remove a partial barrier to fish passage at the Kuhlmann Property on Thomas Creek and install a 10' span x 15' long x 5' wide precast box culvert. The deck of the culvert will serve as the road surface. Some resurfacing of the road will be necessary, but the road elevation doesn't need to be altered as it may affect the wetland hydrology and increase the footprint area into the wetland.</p>",
+        "description": "<h1>Kuhlmann-Thomas Creek</h1><h3>Lead organization:</h3>Wild Fish Conservancy<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Kuhlmann-Thomas Creek R6. WFC will remove a partial barrier to fish passage at the Kuhlmann Property on Thomas Creek and install a 10' span x 15' long x 5' wide precast box culvert. The deck of the culvert will serve as the road surface. Some resurfacing of the road will be necessary, but the road elevation doesn't need to be altered as it may affect the wetland hydrology and increase the footprint area into the wetland.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "swimming",
@@ -2735,7 +2735,7 @@
       "type": "Feature",
       "properties": {
         "title": "Route 509 & 99 Intersection",
-        "description": "<h1>Route 509 & 99 Intersection</h1><p>Mudlfat and marsh creation/restoration on the Duwamish waterway in Seattle, at the 509 and 99 intersection., about 47.537980, -122.333504. </p>",
+        "description": "<h1>Route 509 & 99 Intersection</h1><h3>Lead organization:</h3>WA Dept. of Transportation<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Mudlfat and marsh creation/restoration on the Duwamish waterway in Seattle, at the 509 and 99 intersection., about 47.537980, -122.333504.�</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "swimming",
@@ -2770,7 +2770,7 @@
       "type": "Feature",
       "properties": {
         "title": "Puget Creek Estuary",
-        "description": "<h1>Puget Creek Estuary</h1><p>Puget Creek Estuary. Restored shoreline, created or restored marsh, installed riparian vegetation, removed fill.</p>",
+        "description": "<h1>Puget Creek Estuary</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Puget Creek Estuary. Restored shoreline, created or restored marsh, installed riparian vegetation, removed fill.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "swimming",
@@ -2796,8 +2796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.35336303710938,
-          47.551158582912
+          -122.3533630371,
+          47.5511585829
         ]
       }
     },
@@ -2805,7 +2805,7 @@
       "type": "Feature",
       "properties": {
         "title": "Seattle City Light ??North site",
-        "description": "<h1>Seattle City Light ??North site</h1><p>\"City Light North\" site: Conceptual plans call for creating shallow water transition zone habitat, wetland enhancement, planting of submergent and emergent vegetation, and creation of shallow water transition zone habitat, at river mile 5 on the Duwamish</p>",
+        "description": "<h1>Seattle City Light ??North site</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>\"City Light North\" site: Conceptual plans call for creating shallow water transition zone habitat, wetland enhancement, planting of submergent and emergent vegetation, and creation of shallow water transition zone habitat, at river mile 5 on the Duwamish</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "swimming",
@@ -2831,8 +2831,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4161911010742,
-          47.57733633268815
+          -122.4161911011,
+          47.5773363327
         ]
       }
     },
@@ -2840,7 +2840,7 @@
       "type": "Feature",
       "properties": {
         "title": "Seattle Seawall Project",
-        "description": "<h1>Seattle Seawall Project</h1><p>Seattle Seawall Project: replacing seawall and removing viaduct. The Seawall Project is replacing the seawall along Seattle's waterfront to protect critical infrastructure and utilities and also take advantage of a once-in-a-lifetime opportunity to enhance the habitat through this area.</p>",
+        "description": "<h1>Seattle Seawall Project</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Seattle Seawall Project: replacing seawall and removing viaduct. The Seawall Project is replacing the seawall along Seattle's waterfront to protect critical infrastructure and utilities and also take advantage of a once-in-a-lifetime opportunity to enhance the habitat through this area.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "swimming",
@@ -2866,8 +2866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34074592590332,
-          47.60523713135211
+          -122.3407459259,
+          47.6052371314
         ]
       }
     },
@@ -2875,7 +2875,7 @@
       "type": "Feature",
       "properties": {
         "title": "South Riverside Street End",
-        "description": "<h1>South Riverside Street End</h1><p>South Riverside Street End - restored shoreline</p>",
+        "description": "<h1>South Riverside Street End</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>South Riverside Street End - restored shoreline</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "swimming",
@@ -2901,8 +2901,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.420654296875,
-          47.575136052077276
+          -122.4206542969,
+          47.5751360521
         ]
       }
     },
@@ -2910,7 +2910,7 @@
       "type": "Feature",
       "properties": {
         "title": "Viaduct Seawall",
-        "description": "<h1>Viaduct Seawall</h1><p>Seattle Seawall Project: replacing seawall and removing viaduct. The Seawall Project is replacing the seawall along Seattle's waterfront to protect critical infrastructure and utilities and also take advantage of a once-in-a-lifetime opportunity to enhance the habitat through this area.</p>",
+        "description": "<h1>Viaduct Seawall</h1><h3>Lead organization:</h3>Seattle Dept. of Transportation<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Seattle Seawall Project: replacing seawall and removing viaduct. The Seawall Project is replacing the seawall along Seattle's waterfront to protect critical infrastructure and utilities and also take advantage of a once-in-a-lifetime opportunity to enhance the habitat through this area.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "swimming",
@@ -2936,8 +2936,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34211921691895,
-          47.607725484075466
+          -122.3421192169,
+          47.6077254841
         ]
       }
     },
@@ -2945,7 +2945,7 @@
       "type": "Feature",
       "properties": {
         "title": "Seattle City Light South Park",
-        "description": "<h1>Seattle City Light South Park</h1><p>City Light South restoration site. Installed riparian vegetation, large woody debris, and gravel along the Dwamish River (South Park neighborhood).</p>",
+        "description": "<h1>Seattle City Light South Park</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>City Light South restoration site. Installed riparian vegetation, large woody debris, and gravel along the Dwamish River (South Park neighborhood).</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "swimming",
@@ -2980,7 +2980,7 @@
       "type": "Feature",
       "properties": {
         "title": "Longfellow Creek at Thistle Street",
-        "description": "<h1>Longfellow Creek at Thistle Street</h1><p>Longfellow Creek at Thistle Street: Improve the quality of 7,500 square feet (.17 acres) of riparian area bordering LongfellowCreek adjacent to Chief Seattle High School.• Determine the survival rates of a 2003 planting project and remove invasive species cover, including Himalayan blackberry using manual control methods.• Plant native species in 7500 sq ft.• Use EarthCorps’ Summer Parks Corps program.</p>",
+        "description": "<h1>Longfellow Creek at Thistle Street</h1><h3>Lead organization:</h3>Seattle Public Utilities<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Longfellow Creek at Thistle Street: Improve the quality of 7,500 square feet (.17 acres) of riparian area bordering LongfellowCreek adjacent to Chief Seattle High School.� Determine the survival rates of a 2003 planting project and remove invasive species cover, including Himalayan blackberry using manual control methods.� Plant native species in 7500 sq ft.� Use EarthCorps� Summer Parks Corps program.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "theatre",
@@ -3015,7 +3015,7 @@
       "type": "Feature",
       "properties": {
         "title": "Camp Long",
-        "description": "<h1>Camp Long</h1><p>Camp Long: forest restoration, remove invasive plants, plant new native trees, monitor restoration sites</p>",
+        "description": "<h1>Camp Long</h1><h3>Lead organization:</h3>Seattle Parks<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Camp Long: forest restoration, remove invasive plants, plant new native trees, monitor restoration sites</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "theatre",
@@ -3041,8 +3041,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34546661376953,
-          47.54362716173679
+          -122.3454666138,
+          47.5436271617
         ]
       }
     },
@@ -3050,7 +3050,7 @@
       "type": "Feature",
       "properties": {
         "title": "Longfellow Creek – 2",
-        "description": "<h1>Longfellow Creek – 2</h1><p>Longfellow Creek: many restoration projects. Improve flow, erosion control and fish passage, control invasive weeds, conducted spawning surveys.</p>",
+        "description": "<h1>Longfellow Creek � 2</h1><h3>Lead organization:</h3>Seattle Public Utilities<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Longfellow Creek: many restoration projects. Improve flow, erosion control and fish passage, control invasive weeds, conducted spawning surveys.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "theatre",
@@ -3076,8 +3076,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.36357688903807,
-          47.54785647762022
+          -122.363576889,
+          47.5478564776
         ]
       }
     },
@@ -3085,7 +3085,7 @@
       "type": "Feature",
       "properties": {
         "title": "Terminal 117",
-        "description": "<h1>Terminal 117</h1><p>Terminal 117. T-117 uplands soil cleanup construction began on schedule in June 2013. During this construction, steel sheet piling is used to isolate contaminated soil and water from the river. PCB contaminated soil is excavated and hauled offsite to a licensed waste landfill. Several unanticipated underground storage tanks and barrels containing waste oil and other remains have been uncovered on-site; but there have been no impacts or threats to the community from the discovery and handling of these materi</p>",
+        "description": "<h1>Terminal 117</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Terminal 117. T-117 uplands soil cleanup construction began on schedule in June 2013. During this construction, steel sheet piling is used to isolate contaminated soil and water from the river. PCB contaminated soil is excavated and hauled offsite to a licensed waste landfill. Several unanticipated underground storage tanks and barrels containing waste oil and other remains have been uncovered on-site; but there have been no impacts or threats to the community from the discovery and handling of these materi</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "zoo",
@@ -3111,8 +3111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.31199264526367,
-          47.52676444256321
+          -122.3119926453,
+          47.5267644426
         ]
       }
     },
@@ -3120,7 +3120,7 @@
       "type": "Feature",
       "properties": {
         "title": "Terminal 107",
-        "description": "<h1>Terminal 107</h1><p>Terminal 107. Park completed in 2000, including shoreline access, pathways, and habitat restoration area. In order to create this special park, businesses and container cargo facilities were relocated to Terminals 5 and 18.</p>",
+        "description": "<h1>Terminal 107</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Terminal 107. Park completed in 2000, including shoreline access, pathways, and habitat restoration area. In order to create this special park, businesses and container cargo facilities were relocated to Terminals 5 and 18.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "farm",
@@ -3146,8 +3146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34718322753905,
-          47.55289644950155
+          -122.3471832275,
+          47.5528964495
         ]
       }
     },
@@ -3155,7 +3155,7 @@
       "type": "Feature",
       "properties": {
         "title": "Olympic Sculpture Park – 2",
-        "description": "<h1>Olympic Sculpture Park – 2</h1><p>Olympic Sculpture Park - constructed in 2007 on Elliott Bay. Restoration was done along the shoreline, and a 'brown field' turned into a 'green field.' Constructed embayment in the nearshore to provide salmon habitat. Monitoring assessed the ecological performance of habitat modifications.</p>",
+        "description": "<h1>Olympic Sculpture Park � 2</h1><h3>Lead organization:</h3>Seattle Parks<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Olympic Sculpture Park - constructed in 2007 on Elliott Bay. Restoration was done along the shoreline, and a 'brown field' turned into a 'green field.' Constructed embayment in the nearshore to provide salmon habitat. Monitoring assessed the ecological performance of habitat modifications.</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "farm",
@@ -3181,8 +3181,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.35233306884764,
-          47.61588413576999
+          -122.3523330688,
+          47.6158841358
         ]
       }
     },
@@ -3190,7 +3190,7 @@
       "type": "Feature",
       "properties": {
         "title": "South Park 8th Avenue",
-        "description": "<h1>South Park 8th Avenue</h1><p>South Park 8th Avenue Public - restored shoreline and public access</p>",
+        "description": "<h1>South Park 8th Avenue</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>South Park 8th Avenue Public - restored shoreline and public access</p>",
         "marker-size": "large",
         "marker-color": "#1087bf",
         "marker-symbol": "farm",
