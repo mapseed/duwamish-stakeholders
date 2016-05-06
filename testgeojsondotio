@@ -1,0 +1,3301 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Duwamish Hill Preserve",
+        "description": "\"<h2 style=\"\"text-align:left;\"\">Duwamish Hill Preserve<br /></h2>\n<span class='imgPusher' style='float:left;height:0px'></span><span style='position:relative;float:left;z-index:10;;clear:left;margin-top:16px;*margin-top:32px'><a><img class=\"\"wsite-image galleryImageBorder\"\" src=\"\"http://forterra.org/wp-content/uploads/2015/05/Duwamish-Hill-Preserve-map-2015-550x585.jpg\"\" style=\"\"margin-top: 5px; margin-bottom: 10px; margin-left: 0px; margin-right: 10px; none;\"\" alt=\"\"Picture\"\" /></a><div style=\"\"display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px; text-align: center;\"\">Photo by Else Sargent</div></span>\n<div class=\"\"paragraph\"\" style=\"\"text-align:left;display:block;\"\"><br /><span></span><br /><font size=\"\"3\"\">Join volunteers all along the  Duwamish River today as part of the larger Duwamish Alive! Celebration  to help restore this important waterway in the Tukwila/South Seattle  community.&nbsp; At this site, we'll focus on removing invasive weeds,  muching and preparation for the fall planting season.</font><br /><span style=\"\"\"\"></span><br /><br /><span style=\"\"\"\"></span><br /><span></span><font size=\"\"3\"\">The Duwamish Hill Preserve is a 10.5 acre parcel of historical,  cultural and ecological significant land in Tukwila. Thanks to the  actions of many partners including the Friends of the Hill, Forterra and  City of Tukwila, the property was purchased in 2004 and has been in  active restoration ever since. The Duwamish Hill Preserve serves as an  outdoor classroom for students, a gathering place for restoration  volunteers, a culturally significant location for Native Americans and  an example of a successful partnership between community members and  public and private partners.<br /><span style=\"\"\"\"></span><br /><span style=\"\"\"\"></span><strong>  \tCreation of the Preserve</strong>  \tIn 2001, Forterra, the City of Tukwila and local citizen group Friends  of the Hill formed a partnership to work towards the preservation of a  10.5 acre parcel slated for industrial development. The land was  successfully acquired in 2004 by the Forterra (then Cascade Land  Conservancy) and the City of Tukwila. In September 2010, after many  years of hard work by volunteers, the Duwamish Hill Preserve was  officially opened to the public. The preserve now includes an outdoor  classroom area, established trail and continued restoration  opportunities for volunteers. The Duwamish Hill Preserve is managed as a  public open space preserve dedicated to the conservation and  enhancement of its rich Native American cultural history, ecological  importance and community impact. Funding for acquisition and restoration  of this property has been supported by grants from many generous  contributors.<br /><span style=\"\"\"\"></span><strong><br /><span style=\"\"\"\"></span>  \tNatural and Cultural History </strong> \tDue to its elevated position above the Duwamish River, the Hill offered  a vantage point from which Native Americans could watch for incoming  groups and communicate with fellow tribe members along the Duwamish  River Valley. Additionally, the Hill is associated with the southern  Puget Sound Salish oral tradition as the key location in the stories  collectively known as the &ldquo;Epic of the Winds.&rdquo;<br /><span style=\"\"\"\"></span><br /><span style=\"\"\"\"></span>  \tThe hill from which the preserve gets its name is a glacial remnant and  within the preserve many species of flora and fauna that are rarely  seen along the banks of the Duwamish River can be found.<br /><span style=\"\"\"\"></span><br /><span style=\"\"\"\"></span><strong>  \tRestoration</strong>  \tThousands of volunteers have contributed countless hours of work  removing invasive weed and planting native trees and shrubs. The Friends  of the Hill make up a core group of dedicated volunteers that host  monthly restoration work parties at the Hill and offer local community  members a chance to contribute to the restoration of this amazing  preserve. For more information on when these restoration volunteer  opportunities take place, please visit our <a title=\"\"\"\" href=\"\"http://forterra.org/events\"\">events page.</a> For more information or questions please email <a title=\"\"\"\" href=\"\"mailto:info@forterra.org\"\">info@forterra.org.<br /></a><br /><span style=\"\"\"\"></span><br /><span style=\"\"\"\"></span>  \tIf you would like to learn more about getting a school or youth group involved please contact &nbsp;</font><br /><font size=\"\"3\"\"><span style=\"\"line-height: 24px;\"\"><br /></span></font><span style=\"\"line-height: 24px;\"\"><font size=\"\"4\"\">Hayes Swinney&nbsp;</font></span><br /><span style=\"\"line-height: 24px;\"\"><font size=\"\"3\"\">&nbsp; &nbsp; Email: </font><font size=\"\"4\"\">hswinney@forterra.org</font><font size=\"\"3\"\">&nbsp;</font></span><br /><span style=\"\"line-height: 24px;\"\"><font size=\"\"3\"\">&nbsp; &nbsp; Phone:&nbsp;</font></span>206-905-6909 <br /><br /><br /><br /><br /><br /></div>\"\n",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "theatre",
+        "PROJECT_NAME": "Duwamish Hill Preserve",
+        "PROJECT_TYPE": "Tree planting and invasive species removal",
+        "PROJECT_TYPE_CODE": 9,
+        "PROJECT_DESCRIPTION": "12.4 acre parcel of land, the Duwamish Hill Preserve, in Tukwila purchased and in active restoration since. Restoration included removal of invasive weeds and planting of native trees and shrubs.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "http://forterra.org/wp-content/uploads/2015/05/Duwamish-Hill-Preserve-map-2015-550x585.jpg",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Forterra, Friends of the Hill, City of Tukwila",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://forterra.org/subpage/duwamish-hill-preserve",
+        "SOCIAL_LINK": "https://www.facebook.com/ForterraNW/",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "6/23/05",
+        "END_DATE": "12/31/16",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2857069969,
+          47.5017791111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pigeon Point",
+        "description": "<h2 style=\"text-align:left;\">                                    West Duwamish Greenbelt / Pigeon Point<br></h2>\n<img src=\"http://duwamishalive.org/uploads/3/3/0/4/3304643/2638019_orig.jpg\" alt=\"West\">\n<div class=\"paragraph\" style=\"text-align:left;display:block;\"><font size=\"4\">SW Genesee St & 20th Ave SW <br>Seattle, 98106<br><br>RESTORE OUR RIVER!<br> <br> The West Duwamish Greenbelt is a vital part of the Duwamish River  watershed because of the crucial habitat and the pollution-fighting  power the forest provides. <br> <br> EarthCorps  and Nature Consortium are joining forces again for the  Annual Duwamish  Alive Earth Day event at the West Duwamish Greenbelt/Pigeon Point Park.  Join us, the Green Seattle Partnership and a host of partners  and volunteers as we continue to restore the largest contiguous  greenbelt in Seattle.<br> <br> TO SIGN UP or for more information: email <a title=\"\" target=\"_blank\" href=\"mailto:volunteer@naturec.org\"> volunteer@naturec.org</a><br><span style=\"\"></span><br></font><font size=\"4\"><strong>Contact: </strong><br>Lizzie Zemke, Nature Consortium </font><br><font size=\"4\">Email: lizzie@naturec.org<br>Phone: 206.923.0853<br></font><br><br><span style=\"\"></span><span style=\"\"><span></span></span></div>\n<hr style=\"clear:both;visibility:hidden;width:100%;\">",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "theatre",
+        "PROJECT_NAME": "Pigeon Point",
+        "PROJECT_TYPE": "Tree planting and invasive species removal",
+        "PROJECT_TYPE_CODE": 9,
+        "PROJECT_DESCRIPTION": "Pigeon Point Restoration: planting native vegetation, remove invasive species",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "http://westseattleblog.com/blog/wp-content/uploads/2010/04/pigeonsign.jpg",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "The Nature Consortium",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://naturec.org",
+        "SOCIAL_LINK": "https://www.facebook.com/naturec/",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "12/31/16",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3582553864,
+          47.5613532442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point Heyer Driftcell",
+        "description": "<h1>Point Heyer Driftcell</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/10252\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Point Heyer Driftcell",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project will protect shorleine parcels through acquisition within the Pt. Heyer drift cell to assist in the recovery of salmonids and other important fish resources.  This drift system is among the most intact drift cells in the WRIA 9 Marine Nearshore Sub-basin.  It measures 2.2 miles in length and is characterized by minimal modifications and an eroding bluff backed beach.  Bluffs account for over 50% of this shorelines.  The backshore contains dense, mature native riparian vegetation.  Juvenile chinook, chum, coho, cutthroat, pink, sockeye and steelhead are known to be present along the eastern shoreline and termines along the large spit near the marsh inlet at Point Heyer.  Other important nearshore resources include a surf smelt spawning beach, and eelgrass, kelp and ulva along the intertidal/subtidal area. The tidal lagoon serves an important function in providing feeding, rearing and cover for migrating juvenile salmon.  This phase of the project focuses on shoreline throughout the drift cell, with the highest priority parcels being those with feeder bluffs. \n",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity, King County Conservation Futures, Private Landowner(s), King County Parks Levy, Greg Rabourn, Aquatic Lands Enhancement Account, King Co Water & Land Res, King County - WLRD - Vashon-Maury Island Steward, King Conservation District, Estuary Salmon Restoration Program (ESRP), SRFB - Salmon Recovery Funding Board",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Vashon-Maury Island Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/10252",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/03",
+        "END_DATE": "12/1/10",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43718862,
+          47.4360847252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Duwamish Gardens Shallow Water Habitat Creation at RM 7.0 DUW-1",
+        "description": "<h1>Duwamish Gardens Shallow Water Habitat Creation at RM 7.0 DUW-1</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/12003\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Duwamish Gardens Shallow Water Habitat Creation at RM 7.0 DUW-1",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project is one part of a multi-phase effort to create 20 acres of restored or new shallow water habitat between RM 7.0-5.5 along both banks (DUW-7). Additional locations will require restoration (i.e., through later phases) to achive the goal of DUW-7. The desired habitat is off-channel shallow-water/marsh habitat with associated riparian vegetation. ",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity, King County Conservation Futures, Aquatic Lands Enhancement Account, King Co Water & Land Res, King Conservation District, Estuary Salmon Restoration Program (ESRP), City of Tukwila, SRFB - Salmon Recovery Funding Board",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "City of Tukwila",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/12003",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/10",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2896,
+          47.5012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Feeder Bluff Protection Acquisition (Beaconsfield), NS-11",
+        "description": "<h1>Feeder Bluff Protection Acquisition (Beaconsfield), NS-11</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/14851\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Feeder Bluff Protection Acquisition (Beaconsfield), NS-11",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project includes the purchase and restoration of one of the major privately-held undeveloped feeder bluffs along the mainland marine shoreline.  The project is located just north of Marine View Park in Normandy Park.  The bluff is approximately 1,000 feet long and is made up of 27 separate parcels, totaling 13.5 acres.  Three of the 27 parcels are already in public ownership (two owned by King County and one by the City of Normandy Park).  While the upland is not developed, there is a bulkhead along 80% of the shoreline of the bluff.  Once the parcels are purchased, the bulkhead would be removed to allow for natural sediment beach feeding processes to occur.  The restoration phase of this project is designated as a separate project, 09-NS-011B.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Puget Sound Acquisition and Restoration, Washington Department of Fish and Wildlife (WDFW), King Conservation District, Forterra, SRFB - Salmon Recovery Funding Board, City of Burien",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Forterra",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/14851",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/06",
+        "END_DATE": "12/31/12",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3461922141,
+          47.4152280033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seahurst Park South Shoreline Restoration NS-5",
+        "description": "<h1>Seahurst Park South Shoreline Restoration NS-5</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/14857\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "farm",
+        "PROJECT_NAME": "Seahurst Park South Shoreline Restoration NS-5",
+        "PROJECT_TYPE": "Water access, trails, recreation, parks, open space",
+        "PROJECT_TYPE_CODE": 11,
+        "PROJECT_DESCRIPTION": "This project completed the initial phase of restoration along the southern portion of Seahurst Park in Burien by removing approximately 3,000 feet of shoreline armoring, restoring natural beach slopes, adding riparian vegetation, and connecting riparian vegetation and sediment supply to the aquatic portion of nearshore.  A subsequent Phase II along the north shoreline would add to this successful phase of seawall removal/beach restoration conducted in 2004-2005.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity, US Army Corps of Engineers (USACE), NOAA Fisheries Restoration Center, Aquatic Lands Enhancement Account, Steve Roemer, Land and Water Conservation Fund, King Conservation District, SRFB - Salmon Recovery Funding Board, City of Burien",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "WRIA 9 Lead Entity, US Army Corps of Engineers (USACE), NOAA Fisheries Restoration Center, Aquatic Lands Enhancement Account, Steve Roemer, Land and Water Conservation Fund, King Conservation District, SRFB - Salmon Recovery Funding Board, City of Burien",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/14857",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/03",
+        "END_DATE": "12/31/18",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3606533727,
+          47.4834639416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Piner Point Bulkhead Removal NS-17",
+        "description": "<h1>Piner Point Bulkhead Removal NS-17</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/15796\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Piner Point Bulkhead Removal NS-17",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The Piner Point Natural Area contains a total of 7.76 acres of marine nearshore with coastal bluff backed beach and mature riparian vegetation along the majority of the preservation shoreline. The area also includes six combined shoreline properties, protecting over 1500 lineal feet of ecologically valuable nearshore which lies adjacent to the WA State Maury Island Aquatic Reserve. The Piner Point shoreline provides sediment supply and beach nourishment that extends over seven miles down shore to Point Robinson (northeastern tip of Maury Island).",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity, King Co Water & Land Res, King Conservation District, Greg Rabourn, King County - WLRD - Vashon-Maury Island Steward",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Vashon-Maury Island Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/15796",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/10",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4536,
+          47.3455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fenster Levee Removal and Setback, MG-18",
+        "description": "<h1>Fenster Levee Removal and Setback, MG-18</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/15803\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Fenster Levee Removal and Setback, MG-18",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Fenster Levee Removal and Setback, MG-18",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, City of Auburn, King County - WLRD - Green River Basin Steward",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Green River Basin Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/15803",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/16",
+        "END_DATE": "1/1/17",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.199035883,
+          47.3045113699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Codiga Park Riparian Corridor Enhancement",
+        "description": "<h1>Codiga Park Riparian Corridor Enhancement</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16930\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Codiga Park Riparian Corridor Enhancement",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Codiga Farms Park is located on the east bank of the Duwamish River, off 50th Place South at the foot of the S 129th Street overpass of I-5. This project improves a riparian corridor of Codiga Park for juvenile Chinook salmon habitat. The riparian area is approximately 2 acres and 1,000 linear feet. This area was cleared of invasive plant species in phases from 2008-2010 with the help of community volunteers and EarthCorps crews under People For Puget Sound's management. The area is currently being maintained and monitored by volunteers called Puget Sound Stewards who are managed by EarthCorps. Ongoing maintenance and monitoring of the still young native plants is anticipated for the next 5 years at minimum as long as there is funding and landowner support.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Nat Fish & Wildlife Foundation, People for Puget Sound, NOAA , City of Tukwila, SRFB - Salmon Recovery Funding Board, Earth Corps",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "City of Tukwila",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16930",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/01",
+        "END_DATE": "1/1/01",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2703,
+          47.4892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Salmon-Safe Puget Sound: WRIA 9",
+        "description": "<h1>Salmon-Safe Puget Sound: WRIA 9</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16942\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Salmon-Safe Puget Sound: WRIA 9",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Salmon-Safe Puget Sound WRIA 9 was a focused effort to accelerate private lands salmon recovery efforts in the Green/Duwamish and central Puget Sound watersheds.  This project conducted outreach to more than 100 corporate and institutional landowners in the region with high level Salmon-Safe participation at ten significant sites, most notably at newly certified REI's headquarters campus in Kent and its distribution center in Sumner, with other projects in the pre-assessment process including Safeco Field, and Boeing's Kent Space Center.  The project also delivered unanticipated outcomes including a new Salmon-Safe program for municipalities that is not working with the cities of Bothell and Sumner, as well as partnering with projects in WRIA 8.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, Stewardship Partners, Nat Fish & Wildlife Foundation, Network for Business Innovation and Sustainability (NBIS)",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Nat Fish & Wildlife Foundation",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16942",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "5/1/07",
+        "END_DATE": "12/31/11",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2252780526,
+          47.2161668498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beaconsfield on the Sound - CLC",
+        "description": "<h1>Beaconsfield on the Sound - CLC</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16943\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Beaconsfield on the Sound - CLC",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The project area is adjacent to Marine View Park in Normandy Park and is one of the last undeveloped and restorable feeder bluffs in Central Puget Sound.  SRFB funding was to be used to remove 656 ft of bulkhead during this project, but the project was revised in scope during the grant period due to issues with bulkhead removal.  Under the revised scope the project acquired nine Beaconsfield properties for inclusion in Marine View Park and they continue to work with the remaining 14 landowners at the site.   Outreach and education with local landowners resulting in volunteers and conservation crews removing 44,000 square feet of invasive species from the site working primarily along the creek.  Over 1500 native plants were installed in the areas where invasive ivy had been removed.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, Nat Fish & Wildlife Foundation, King County, Forterra",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Forterra",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16943",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/15",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3466463747,
+          47.4154199168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Middle Walker Creek and Walker Preserve Stream Habitat Restoration",
+        "description": "<h1>Middle Walker Creek and Walker Preserve Stream Habitat Restoration</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16954\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Middle Walker Creek and Walker Preserve Stream Habitat Restoration",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The goal of this project was to rehabilitate and restore a degraded portion of middle Walker Creek within the City of Normandy Park. The project site included a portion of Walker Preserve, a local public park, and a neighboring private property site.  The site was cleared of invasive vegetation using mechanical equipment. The banks of the stream were regraded and large woody debris and spawning gravel were installed.  Jute matting and other erosion control measures were constructed and the site was revegetated with native plants and trees. ",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, Nat Fish & Wildlife Foundation, Peter Landry, City of Normandy Park",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Peter Landry",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16954",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/21/99",
+        "END_DATE": "9/14/00",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3252820969,
+          47.4481182638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Miller and Walker Creeks Noxious Weed Control Project",
+        "description": "<h1>Miller and Walker Creeks Noxious Weed Control Project</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16957\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "theatre",
+        "PROJECT_NAME": "Miller and Walker Creeks Noxious Weed Control Project",
+        "PROJECT_TYPE": "Tree planting and invasive species removal",
+        "PROJECT_TYPE_CODE": 9,
+        "PROJECT_DESCRIPTION": "The King County Noxious Weed Control Program has been conducting control efforts on properties along Miller and Walker Creeks since 2005.  This project targets weeds that are in areas that are difficult and dangerous for property owners to access and control themselves.  The in-stream surveys being conducted will target policeman's helmet (",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "King County - WLRD - Stewardship Coordinator, King Conservation District, Nat Fish & Wildlife Foundation, King Co Water & Land Res",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Stewardship Coordinator",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16957",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/05",
+        "END_DATE": "12/31/11",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3494434357,
+          47.446812172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maury Island Marine Park Re-vegetation and Monitoring",
+        "description": "<h1>Maury Island Marine Park Re-vegetation and Monitoring</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16962\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "theatre",
+        "PROJECT_NAME": "Maury Island Marine Park Re-vegetation and Monitoring",
+        "PROJECT_TYPE": "Tree planting and invasive species removal",
+        "PROJECT_TYPE_CODE": 9,
+        "PROJECT_DESCRIPTION": "People for Puget Sound will restore and enhance nearshore riparian areas in Maury Island Marine Park by removing on-native invasive vegetation along 800 linear feet of marine shoreline and within 2 acres of riparian area.  One acre will be planted with native plants and the result will be a restored 100-150 ft riparian buffer.  200 volunteers will be engaged and education about nearshore processes and salmon habitat restoration practices.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, Nat Fish & Wildlife Foundation, Greg Rabourn, King County DNR & Parks",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Greg Rabourn",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16962",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/01",
+        "END_DATE": "1/1/01",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4033352615,
+          47.3795775251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Green River Knotweed Removal",
+        "description": "<h1>Green River Knotweed Removal</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16970\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Green River Knotweed Removal",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project implements coordinated control of invasive knotweed (",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, Nat Fish & Wildlife Foundation, King Co Water & Land Res",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Nat Fish & Wildlife Foundation",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16970",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/11",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0250892639,
+          47.2741066711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Puget Sound Rain Gardens - Longfellow Creek",
+        "description": "<h1>Puget Sound Rain Gardens - Longfellow Creek</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16972\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "park2",
+        "PROJECT_NAME": "Puget Sound Rain Gardens - Longfellow Creek",
+        "PROJECT_TYPE": "Green infrastructure/low impact development for stormwater",
+        "PROJECT_TYPE_CODE": 4,
+        "PROJECT_DESCRIPTION": "Stewardship Partners will conduct a series of classroom training sessions, rain garden installations, and outreach activities to educate local citizens on Longfellow Creek to establish rain gardens and other watershed friendly practices as a means to improve downstream water quality. Stormwater runoff associated with urban development is one of the biggest threats to the water quality of Puget Sound, and up to 75% o the pollutants entering Puget Sound is generated from these sources.  Rain gardens infiltrate and filter stormwater on site instead of allowing it to flow off impervious sources and pollute local waterways.  This project will focus demonstration installations around neighborhood clusters (adjacent parcels) to demonstrate the benefits of rain gardens in partnership with EarthCorps, Seattle Public Utilities, and others as part of the WSU-Stewardship Partners campaign to install 12,000 rain gardens by 2016.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, Stewardship Partners, Nat Fish & Wildlife Foundation",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Nat Fish & Wildlife Foundation",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16972",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/13",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3600863977,
+          47.5415279489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Duwamish Alive restoration",
+        "description": "<h1>Duwamish Alive restoration</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16974\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "theatre",
+        "PROJECT_NAME": "Duwamish Alive restoration",
+        "PROJECT_TYPE": "Tree planting and invasive species removal",
+        "PROJECT_TYPE_CODE": 9,
+        "PROJECT_DESCRIPTION": "The Duwamish Alive coalition is made up of over 30 non-profits, community groups, and government entities throughout the neighborhoods of South and West Seattle and Tukwila. Our mission is to collaborate with communities, municipalities, non-profits, and businesses within the Duwamish River watershed to preserve and enhance habitat for people and wildlife, with a goal towards improving the health of Puget Sound. Two large events are held each year, engaging hundreds of local volunteers in a massive restoration effort along the critical salmon habitat of the Duwamish River.  The groups dispose of hundreds of pounds of garbage from the river and its banks, plant thousands of native trees and shrubs to restore the forested lands around the river, and remove tens of thousands of native trees and shrubs to restore the forested lands around the river, and remove tens of thousands of square feet of invasive species.  ",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Nat Fish & Wildlife Foundation, Duwamish Alive, City of Seattle, People for Puget Sound, Duwamish River Cleanup Coalition, Nature Consortium, Port of Seattle, Forterra, SRFB - Salmon Recovery Funding Board, Earth Corps",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Nat Fish & Wildlife Foundation",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16974",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/10",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2707368704,
+          47.4896031335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Newaukum Creek Restoration, MG-6",
+        "description": "<h1>Newaukum Creek Restoration, MG-6</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16975\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Newaukum Creek Restoration, MG-6",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The project goal is to restore process-based ecological functions that include wetlands and riparian restoration on the Enumclaw Plateau.  King County will construct this project in a predominantly agricultural area.  Historic stream and floodplain activities to expand agricultural areas have resulted in the removal of riparian vegetation and instream wood.  This stream system, important to many fish and wildlife species, has temperatures and fecal coliform concentrations that typically exceed state standards. Nine landowners have previously participated in this revegetation effort which has been underway for three years.  King County intends to continue to recruit landowners along Newaukum Creek to participate in this program. This project would improve riparian habitat with the following actions:",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Nat Fish & Wildlife Foundation, King County Surface Water Management, King Co Water & Land Res, King Conservation District, King County - WLRD - Green River Basin Steward, SRFB - Salmon Recovery Funding Board",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Green River Basin Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16975",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/14",
+        "END_DATE": "12/31/15",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0101865595,
+          47.2142452362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stewards of the Cove - Miller and Walker Creek Restoration",
+        "description": "<h1>Stewards of the Cove - Miller and Walker Creek Restoration</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16977\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Stewards of the Cove - Miller and Walker Creek Restoration",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The Normandy Park Community Club has received several National Fish and Wildlife Foundation grants to enhance wetland and riparian habitat on Miller and Walker Creek.  The project facilitates neighborhood volunteers to replace invasive plants with native species on 2 acres of estuary and 8 acres of riparian habitat.  Increasing public awareness of habitat requirements and restoration opportunities to benefit juvenile Chinook salmon is a primary outcome of this community-based work. ",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, Normandy Park Community Club, Nat Fish & Wildlife Foundation, King County",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Normandy Park Community Club",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16977",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/07",
+        "END_DATE": "1/1/17",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3571360082,
+          47.4437285607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Needle Creek Slope Stabilization",
+        "description": "<h1>Needle Creek Slope Stabilization</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16980\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Needle Creek Slope Stabilization",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The Vashon-Maury Island  Land Trust, with the help of volunteers, conservation crews, and island contractors, was able to stabilize over 15,000 square feet of unstable slope in the Needle Creek drainage. The project planted 5,000 trees over 31 acres of alder-dominated forest to encourage a layer of conifer regeneration, constructed 16 in-stream sediment control structures along 500",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Nat Fish & Wildlife Foundation, Vashon-Maury Island Land Trust, King County",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Vashon-Maury Island Land Trust",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16980",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/04",
+        "END_DATE": "12/31/05",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4669456474,
+          47.4673634684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Restoration along Little Soos and Winter Creeks",
+        "description": "<h1>Restoration along Little Soos and Winter Creeks</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16988\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Restoration along Little Soos and Winter Creeks",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The Institute for Community Leadership worked with seven landowners to restore riparian habitat on 2,275 feet along Little Soos and Winter Creeks with buffers of at least 25 ft.  The project removed invasive species, primarily blackberry,  planted native vegetation, engaged the community, and placed information signage.  Over 800 volunteers were involved. During the grant cycle the Institute for Community Leadership recevied the King County Earth Heroes Award. ",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, Institute for Community Leadership, Nat Fish & Wildlife Foundation, King County",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Institute for Community Leadership",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16988",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "10/1/04",
+        "END_DATE": "6/30/09",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1025759639,
+          47.3804447698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shinglemill Creek Salmon Habitat Enhancement",
+        "description": "<h1>Shinglemill Creek Salmon Habitat Enhancement</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16991\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Shinglemill Creek Salmon Habitat Enhancement",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The Vashon-Maury Island Land trust conducted a habitat enhancement project on Shinglemill Creek. They placed 111 pieces of large woody debris in a series of structures along 2,000 feet of Shinglemill Creek. The placements have added complexity to the structure of the creek and have sequestered fine sediments, creating viable spawning reaches for coho and chum salmon and searun cutthroat trout. We have also planted 1,000 native conifers and recorded a conservation easement covering 29 acres of mature forest along the stream in order to nurture and protect the long-term recruitment of large wood to Shinglemill Creek.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Nat Fish & Wildlife Foundation, Vashon-Maury Island Land Trust, King County",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Vashon-Maury Island Land Trust",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16991",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/01",
+        "END_DATE": "1/1/01",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4803996081,
+          47.4783502805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nearshore and estuarine restoration through oyster introduction",
+        "description": "<h1>Nearshore and estuarine restoration through oyster introduction</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/16992\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Nearshore and estuarine restoration through oyster introduction",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The Puget Sound Restoration Fund planted approximately 340,000 native oysters at three sites on Vashon and Maury Islands to restore nearshore and estuarine habitat on private tidelands and improve juvenile salmonid habitat and water quality.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Nat Fish & Wildlife Foundation, People for Puget Sound, Puget Sound Restoration Fund, Vashon-Maury Island Land Trust, Puyallup Tribe, King County",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Puget Sound Restoration Fund",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/16992",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/06",
+        "END_DATE": "12/31/07",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432664904,
+          47.3925017848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fauntleroy Creek Instream and Riparian Restoration",
+        "description": "<h1>Fauntleroy Creek Instream and Riparian Restoration</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/17072\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "theatre",
+        "PROJECT_NAME": "Fauntleroy Creek Instream and Riparian Restoration",
+        "PROJECT_TYPE": "Tree planting and invasive species removal",
+        "PROJECT_TYPE_CODE": 9,
+        "PROJECT_DESCRIPTION": "The Fauntleroy Environmental Association installed large woody debris along 530 feet of degraded creek channel and revegetated the banks of Fauntleroy Creek with native plants. The project also completed a preliminary design for restoration of 240 feet of channel near the mouth of the creek.  Interpretive signs were installed upon project completion and many neighbors and volunteers were involved in the project.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Nat Fish & Wildlife Foundation, Fauntleroy Community Association, King County",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Fauntleroy Community Association",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/17072",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/07",
+        "END_DATE": "12/31/14",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3887002463,
+          47.5212314037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Icy Creek Acquisition MG-20",
+        "description": "<h1>Icy Creek Acquisition MG-20</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/17098\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Icy Creek Acquisition MG-20",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project is identified as a priority acquisition in King County's \"Last Best Places in the Green River Watershed\", State Parks Gorge Preservation plan, by the WRIA 9 Steering Committee and by King County Executive Ron Sims.  The project would protect 270 acres of forested uplands along the last wild section of the Green River Gorge. The project would also protect the instream flows of Icy Creek.  Icy Creek is a year round spring fed stream with flows of 40-60 cubic feet per second. It has been classified as a source of clear, cold, pathogen-free water that feeds the Green River.  Chinook, coho, and steelhead spawn at the mouth of Icy Creek as it enters the Green River.  It also protects numerous spring that feed into the Green River. There are five or more springs that either directly flow into the Green River or flow into Icy Creek from the gorge walls below the Icy Creek uplands. ",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "WRIA 9 Lead Entity",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/17098",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/13",
+        "END_DATE": "12/31/15",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9806289672,
+          47.2810944591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Soos Creek - Lower â Channel Rehabilitation Between Creek Miles 0.0 and 0.9, MG-21",
+        "description": "<h1>Soos Creek - Lower â Channel Rehabilitation Between Creek Miles 0.0 and 0.9, MG-21</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/17099\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Soos Creek - Lower â Channel Rehabilitation Between Creek Miles 0.0 and 0.9, MG-21",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project would place large woody debris (LWD) pieces and jams along the lower 0.9 miles of Soos Creek, one of the two largest tributaries to the Green River downstream of the Howard Hanson Dam. Currently, there is a significant lack of wood in this reach. Lower Soos Creek provides overwintering refuge and year-round refuge for Green River salmonids.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "King County - WLRD - Green River Basin Steward",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Green River Basin Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/17099",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/12",
+        "END_DATE": "1/1/13",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1727181046,
+          47.304264024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Frager Road Lower Riparian Improvement, RM 19.5 - 18.0 (left bank), LG-20",
+        "description": "<h1>Frager Road Lower Riparian Improvement, RM 19.5 - 18.0 (left bank), LG-20</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/17100\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Frager Road Lower Riparian Improvement, RM 19.5 - 18.0 (left bank), LG-20",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project would set back some or all of Frager Road from RM 19.5 (the pedestrian bridge over the Green) and RM 18 (S. 212th Street Bridge). The road also functions as the levee and has an overly steep bank as well as one significant slump. Presently, the road does not provide sufficient freeboard above the base flood elevation so setback would allow improved flood protection as well. Levee setback would allow restoration on the resulting excavated bench and river bank involving placement of large woody debris and planting of native vegetation. ",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "UNLISTED",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/17100",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/10",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2686338211,
+          47.4093017709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Riverview Plaza Off-Channel Habitat Rehabilitation, RM13 (Left Bank), LG-21",
+        "description": "<h1>Riverview Plaza Off-Channel Habitat Rehabilitation, RM13 (Left Bank), LG-21</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/17101\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Riverview Plaza Off-Channel Habitat Rehabilitation, RM13 (Left Bank), LG-21",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project would remove armoring on the existing shoreline, excavate approximately 1.7 acres of flood refuge for juvenile salmonid rearing habitat, install large woody debris, and plant native vegetation to create riparian wetland and upland. ",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "City of Tukwila",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "City of Tukwila",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/17101",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "11/1/10",
+        "END_DATE": "7/31/14",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2470799729,
+          47.4594604018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Slip 4 Restoration, RM 3.3 (Right Bank)",
+        "description": "<h1>Slip 4 Restoration, RM 3.3 (Right Bank)</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/17102\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "zoo",
+        "PROJECT_NAME": "Slip 4 Restoration, RM 3.3 (Right Bank)",
+        "PROJECT_TYPE": "Water quality improvements",
+        "PROJECT_TYPE_CODE": 10,
+        "PROJECT_DESCRIPTION": "This project will combine the cleanup of contaminated sediments with habitat restoration in the inner half of Slip 4. Slip 4 is a 3.8-acre \"early action area\" within the Lower Duwamish Waterway Superfund Site. ",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "City of Seattle, King County",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/17102",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/12",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3204755784,
+          47.5351406588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Big Spring Creek Acquisition, MG-7",
+        "description": "<h1>Big Spring Creek Acquisition, MG-7</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/17319\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Big Spring Creek Acquisition, MG-7",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Acquisition of 74 acres of land within the headwaters of Big Spring Creek.  This waterbody is an important cold-water source for Newaukum Creek and contributes significantly to the minimum autumn flows in lower Newaukum Creek where Chinook, coho, and steelhead spawn and rear.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity, King County Conservation Futures, King Co Water & Land Res, King Conservation District, King County - WLRD - Green River Basin Steward, SRFB - Salmon Recovery Funding Board",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Green River Basin Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/17319",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/07",
+        "END_DATE": "12/31/13",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0266342163,
+          47.2164877925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kanaskat North",
+        "description": "<h1>Kanaskat North</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/17353\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Kanaskat North",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The purpose of the Kanaskat North acquisition project is to acquire up to 75 acres of property along a remnant historic side channel to the middle Green River just below the Tacoma headworks.  The property is mixed deciduous and young coniferous riparian forest/wetland complex that is hydraulically connected to the Green River.  ",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, King Co Water & Land Res, King County - WLRD - Green River Basin Steward",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Green River Basin Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/17353",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/01",
+        "END_DATE": "1/1/01",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8810653687,
+          47.3158813172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kanaskat - Middle Green",
+        "description": "<h1>Kanaskat - Middle Green</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/17354\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Kanaskat - Middle Green",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The purpose of this proposal is to protect crucial fish habitat restoration projects associated with the Green/Duwamish River Ecosystem Restoration Project sponsored in partnership by the Corps, King County, and many other jurisdictions.  In order to implement this large-scale restoration effort, parcels to be restored must be publicly owned.  In the last 5 years, over 700 acres of land have been protected along the Middle Green generating a lot of momentum to preserve the remaining unprotected tracts.  However, tremendous development pressure still remains.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, King Co Water & Land Res, King County Conservation Futures, King County - WLRD - Green River Basin Steward",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Green River Basin Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/17354",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "5/3/01",
+        "END_DATE": "9/26/05",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.859318018,
+          47.3137573534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kanaskat - Phase 3",
+        "description": "<h1>Kanaskat - Phase 3</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/17355\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Kanaskat - Phase 3",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The purpose of this proposal is to protect 48 acres with 3,800 feet of river frontage. Preserving these parcels would:",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, King Co Water & Land Res, King County - WLRD - Green River Basin Steward",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Green River Basin Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/17355",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/01",
+        "END_DATE": "1/1/01",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8840694428,
+          47.3139028801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Porter Levee Section Removal",
+        "description": "<h1>Porter Levee Section Removal</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/17360\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Porter Levee Section Removal",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The Porter Levee Section 1135 Project involves restoration of the Green River connection to an isolated side channel along the left bank of the Green River at river mile 35, just east of Auburn.  Side channel habitat allowing salmon refuge from high flows and overwintering habitat for juveniles is currently extremely limited along the middle Green River.  This project will demonstrate an approach to restoring these functions.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "SRFB - Salmon Recovery Funding Board",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/17360",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/03",
+        "END_DATE": "9/30/10",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1686535057,
+          47.2939361989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Wind's Weir Acquisition DUW-10A",
+        "description": "<h1>North Wind's Weir Acquisition DUW-10A</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/17361\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "North Wind's Weir Acquisition DUW-10A",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "North Wind's Weir, previously known as Site 1 Duwamish, is located at river mile 6.3 along the right bank of the Duwamish River estuary.  It is important because this reach of the estuary provides the appropriate range of salinities for juvenile chinook to transition to salt water.  It also contains among the highest juvenile densities in the Duwamish. The site has been identified as important by every major habitat study of the Duwamish estuary since 1991.  The site is included in the Green Duwamish Ecosystem Restoration Study and funding for future restoration is expected to be available through the US Army Corps of Engineers.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, Karen Bergeron, King Co Water & Land Res",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Karen Bergeron",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/17361",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/13",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2960533666,
+          47.5038364035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cecil Moses Revetment Removal and Habitat Creation",
+        "description": "<h1>Cecil Moses Revetment Removal and Habitat Creation</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/18854\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "farm",
+        "PROJECT_NAME": "Cecil Moses Revetment Removal and Habitat Creation",
+        "PROJECT_TYPE": "Water access, trails, recreation, parks, open space",
+        "PROJECT_TYPE_CODE": 11,
+        "PROJECT_DESCRIPTION": "Cecil Moses Revetment Removal and Habitat Creation",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "King County DNR & Parks, WRIA 9 Lead Entity, Karen Bergeron",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Karen Bergeron",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/18854",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/10",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2976,
+          47.5032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "42nd Ave S Bank Restoration DUW-5",
+        "description": "<h1>42nd Ave S Bank Restoration DUW-5</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/1955\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "42nd Ave S Bank Restoration DUW-5",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Relocate the water main presently located under the riverward edge of 42nd Avenue S to the opposite side of the streeet to allow restoration of a more stable bank angle and/or excavation of low vegetated benches along the river.  Large woody debris would be added to the midchannel island by chaining them to the exisitng pilings and strategically placed anchor rocks",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "City of Tukwila, WRIA 9 Lead Entity, King County Flood Control District",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County Flood Control District",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/1955",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/05",
+        "END_DATE": "1/1/15",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.280383972,
+          47.4953985535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Acquisition, Levee Setback, Floodplain Wetland Project LG-6",
+        "description": "<h1>Acquisition, Levee Setback, Floodplain Wetland Project LG-6</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/1956\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Acquisition, Levee Setback, Floodplain Wetland Project LG-6",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Acquire and remove auto wrecking yards to create space for a habitat rehabilitation project.  Proposed actions include removing contaminated soils, re-sloping an over-steepened revetment along 78th Avenue S to create a low bench, restoring a floodplain wetland, excavating an off-channel flood refugium for juvenile salmonid rearing habitat, installing large woody debris, and planting native wetland and riparian vegetation.  ",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity, Black Diamon, City of ",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "WRIA 9 Lead Entity",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/1956",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/3/07",
+        "END_DATE": "12/31/15",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.23818125,
+          47.3671859942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bank Restoration and Revetment Setback DUW-3",
+        "description": "<h1>Bank Restoration and Revetment Setback DUW-3</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/1957\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Bank Restoration and Revetment Setback DUW-3",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Reshape the revetment at Gateway South at Rivermiles 8.9-8.6 and 8.4-8.2, on the left bank.  A segment of the Green River Train would be relocated westward to allow reshaping of the revetment.  The project would place large woody debris and revegetate the riverbank with native riparian species.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "UNLISTED",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/1957",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/10",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2707141146,
+          47.4896473226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Acquisition, Levee Setback Habitat Rehabilitation, LG-13",
+        "description": "<h1>Acquisition, Levee Setback Habitat Rehabilitation, LG-13</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/1958\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Acquisition, Levee Setback Habitat Rehabilitation, LG-13",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Acquire additional right of way along the river-ward edge of the business park parking lot between river miles 15.3 and 14.7 on the right bank.  The project would include setting back the oversteepened levee, creating bench habitat, installation of large woody debris and planting of native riparian vegetation.  This project would extend downstream from a levee setback project completed in the late 1990's.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "WRIA 9 Lead Entity",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/1958",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "2/1/09",
+        "END_DATE": "9/30/10",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2484596843,
+          47.4403094447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bank Restoration and Revetment Setback DUW-9",
+        "description": "<h1>Bank Restoration and Revetment Setback DUW-9</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/1959\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Bank Restoration and Revetment Setback DUW-9",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Setback and restore the riverank at rivermiles 6.6 to 5.5 on the left bank. Revegetate the riverbanks with native riparian species.  \n",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "WRIA 9 Lead Entity",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/1959",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/15",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2953255487,
+          47.5053624066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Black River Marsh, LG-18",
+        "description": "<h1>Black River Marsh, LG-18</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/2771\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Black River Marsh, LG-18",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project would improve the confluence of the remnant Black River with the Green/Duwamish as an emergent marsh, increasing nutrient productivity for the surrounding system and improving access for salmonid refuge and rearing.  \n",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "US Army Corps of Engineers (USACE), King Co Water & Land Res",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "US Army Corps of Engineers (USACE)",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/2771",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "10/30/00",
+        "END_DATE": "12/26/01",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2470223776,
+          47.4769690746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "McSorley Cr Pocket Estuary Restoration Construction",
+        "description": "<h1>McSorley Cr Pocket Estuary Restoration Construction</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/29654\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "McSorley Cr Pocket Estuary Restoration Construction",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "McSorley Creek Pocket Estuary is located at Saltwater State Park in Des Moines. McSorley Creek supports spawning coho and chum salmon and cutthroat trout. The pocket estuary and marine shoreline provides rearing habitat for Chinook salmon as well as documented spawning habitat for forage fish.  The development of the park dates to 1926 with the dedication of the park with construction of the facilities, including a historic fire pit, by the Civilian Conservation Crews in the 1930's. More recent alterations include shoreline and streambank armoring to protect a shoreline trail, volleyball court, restroom and picnic facilities.  The restoration project will improve the lower portion of stream, pocket estuary, and nearshore damaged by the fill and shoreline armoring.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Washington State Parks, WRIA 9 Lead Entity, Puget Sound Acquisition and Restoration, King Co Water & Land Res, SRFB - Salmon Recovery Funding Board, Lisa Lantz, King County",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/29654",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "4/1/11",
+        "END_DATE": "9/30/12",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3231335817,
+          47.3729037906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seahurst Park North Shoreline Restoration, NS-5",
+        "description": "<h1>Seahurst Park North Shoreline Restoration, NS-5</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/6998\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "farm",
+        "PROJECT_NAME": "Seahurst Park North Shoreline Restoration, NS-5",
+        "PROJECT_TYPE": "Water access, trails, recreation, parks, open space",
+        "PROJECT_TYPE_CODE": 11,
+        "PROJECT_DESCRIPTION": "The Seahurst Park shoreline restoration project in Burien resulted in the removal of bulkheads and restored almost a mile of natural shoreline. Phase one was completed in 2005  phase two was completed in 2014. This award-winning project received the 2014 Futurewise Liveable Community Award and the Seattle chapter of the American Society of Civil Engineers award for Local Outstanding Civil Engineering in 2015.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "WRIA 9 Lead Entity, US Army Corps of Engineers (USACE), Washington Department of Fish and Wildlife (WDFW), Steve Roemer, King Conservation District, Estuary Salmon Restoration Program (ESRP), SRFB - Salmon Recovery Funding Board, City of Burien",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/6998",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "1/1/15",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3606533727,
+          47.4834639416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burns Creek Rehabilitation at RM 38, MG-10",
+        "description": "<h1>Burns Creek Rehabilitation at RM 38, MG-10</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/7523\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Burns Creek Rehabilitation at RM 38, MG-10",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The project would improve riparian vegetation, increase in-stream habitat complexity, provide additional riparian cover, and manage fine silt through the following actions:\n",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity, US Army Corps of Engineers (USACE), King Co Water & Land Res, King County - WLRD - Green River Basin Steward, Mid-Puget Sound Fish Enh Grp, King County DNR & Parks",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Green River Basin Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/7523",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/12",
+        "END_DATE": "1/1/15",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1094416374,
+          47.2850413811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cove Creek Pocket Estuary Restoration on Vashon Island, NS-7",
+        "description": "<h1>Cove Creek Pocket Estuary Restoration on Vashon Island, NS-7</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/7533\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Cove Creek Pocket Estuary Restoration on Vashon Island, NS-7",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project would restore the mouth of Cove Creek on the northwestern side of Vashon Island.  Puget Sound Energy owns the property where Cove Creek enters Puget Sound through a bulkhead/culvert combination.  King County owns the two parcels upstream.  There is a road that leads to and ends at the Puget Sound Energy property.  Since Puget Sound Energy would need the road to maintain the equipment on site, the bulkhead/culvert would be replaced with a box culvert and the road would be moved as far back from the shoreline as possible.  It is also possible that a new road crossing could be build onto the Puget Sound Energy property off of the adjacent King County property.  This would have the stream crossing occurring approximately 150 feet upstream of the mouth.  The northern half of the bulkhead, which is not protecting any structures or road, would be removed.  The stream mouth areas would be planted with riparian and marsh vegetation.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "King Co Water & Land Res, WRIA 9 Lead Entity, King County - WLRD - Vashon-Maury Island Steward",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Vashon-Maury Island Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/7533",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "6/1/09",
+        "END_DATE": "6/20/15",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5095,
+          47.4543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gale and Boundary Creek - Culvert Replacement, UG-3",
+        "description": "<h1>Gale and Boundary Creek - Culvert Replacement, UG-3</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/7540\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Gale and Boundary Creek - Culvert Replacement, UG-3",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Implement the Gale Creek and Boundary Creek culvert replacement projects together to access three miles of spawning and rearing habitat for Chinook and coho salmon, steelhead trout, and possibly bull trout. The mouth of Gale Creek is located near river mile 67.  Boundary Creek joins Gale Creek about one mile upstream from the Howard Hanson reservoir. This habitat is accessible from the reservoir. The projects include gravel supplementation to provide suitable spawning material and large woody debris placement in order to create resting pools and trap gravel.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "US Army Corps of Engineers (USACE), Tacoma Water, WRIA 9 Lead Entity",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "US Army Corps of Engineers (USACE)",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/7540",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "2/15/11",
+        "END_DATE": "1/1/15",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7386293411,
+          47.2608710189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olson Creek Restoration Project Details LG-2",
+        "description": "<h1>Olson Creek Restoration Project Details LG-2</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/7563\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Olson Creek Restoration Project Details LG-2",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Remove excessive sediment from the creek, creating a two-stage channel that provides additional stream depth during flow conditions. The culvert located under Green River Road would be evaluated and replaced if necessary. Excessive sediment in the channel appears to be from a major storm event that has not re-occurred recently.\n",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "US Army Corps of Engineers (USACE), City of Auburn",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "City of Auburn",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/7563",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/12",
+        "END_DATE": "1/1/15",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3344912661,
+          47.5676640415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Feeder Bluff Restoration of Beach Feeding Processes (Beaconsfield), NS-11",
+        "description": "<h1>Feeder Bluff Restoration of Beach Feeding Processes (Beaconsfield), NS-11</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/8547\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Feeder Bluff Restoration of Beach Feeding Processes (Beaconsfield), NS-11",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Restore an exceptional feeder bluff through bulkhead removal, wood placement and revegetation, along the mainland marine shoreline.  The project is located just north of Marine View Park in Normandy Park. While the upland is not developed, there is a bulkhead along 80% of the shoreline of the bluff. Analysis and preliminary design work is currently being funded.  To the extent possible, the bulkhead would be removed to allow for natural sediment beach feeding processes to occur.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Nat Fish & Wildlife Foundation, Peter Landry, WRIA 9 Lead Entity, City of Normandy Park, King Conservation District, Forterra",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Peter Landry",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/8547",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/14",
+        "END_DATE": "12/31/16",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3418626307,
+          47.4127008954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gilliam Creek Fish Passage and Riparian Improvements at RM 12.5, LG-16",
+        "description": "<h1>Gilliam Creek Fish Passage and Riparian Improvements at RM 12.5, LG-16</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/8565\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Gilliam Creek Fish Passage and Riparian Improvements at RM 12.5, LG-16",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project would eliminate fish passage barriers and improve approximately 2,000 feet of Gilliam Creek to provide for enhanced rearing and refuge habitat while maintaining the current level of flood protection to the area.  The project would add a fish ladder and self-regulating tidegate to the existing creek outlet, which currently consists of a flapgate and apron that prevents fish passage.  The project would widen Gilliam Creek and add gravel, riparian vegetation, and large wood, enhancing approximately 2,000 feet of the creek.\n",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "WRIA 9 Lead Entity",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/8565",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/10",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2518530635,
+          47.463492321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hamakami Levee Breach, MG-13",
+        "description": "<h1>Hamakami Levee Breach, MG-13</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/8566\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Hamakami Levee Breach, MG-13",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project would enhance the forested wetland by connecting it with inflow and outlfow channels and providing off-channel habitat, which would significantly enhance fish usage of this site.  Large wood placement in the channels and wetland may be phased following the stabilization of sediment input and the establishment of a coniferous riparian cover.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "US Army Corps of Engineers (USACE), King Co Water & Land Res, WRIA 9 Lead Entity, King County - WLRD - Green River Basin Steward",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Green River Basin Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/8566",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/10",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1462257681,
+          47.2854183954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hawley Revetment, LG-7",
+        "description": "<h1>Hawley Revetment, LG-7</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/8567\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Hawley Revetment, LG-7",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This suite of projects would be coordinated on lands that are adjacent and/or share a floodplain.  The goals and nature of the projects are similar.  These project are being coordinated by the City of Kent, King County, and the U.S. Army Corps of Engineers.  Sub-projects include:\n",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "US Army Corps of Engineers (USACE), WRIA 9 Lead Entity, City of Kent",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "City of Kent",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/8567",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "1/1/15",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2459852695,
+          47.3748088808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mill Creek - Lower â Floodplain Wetland Off-Channel Habitat Rehab, LG-7 (Leber)",
+        "description": "<h1>Mill Creek - Lower â Floodplain Wetland Off-Channel Habitat Rehab, LG-7 (Leber)</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/8568\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Mill Creek - Lower â Floodplain Wetland Off-Channel Habitat Rehab, LG-7 (Leber)",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The re-design of this project includes excavation of over 1,000 l.f. of off-channel habitat (floodplain habitat) on the right bank of Mill Creek and will create 55,000 s.f. of underwater habitat at elevation 30 for use by Chinook during peak outmigrations periods and will restore floodplain functions.  The new off-channel will include numerous large wood debris structures, removal of invasive vegetation, native riparian and upland plantings.  The City and Stakeholders met to discuss pre-liminary design and revised the proposal which will preserve the exisitng mature trees along the banks of Mill Creek and the Green River and meets the majority of the original objectives of the project.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, WRIA 9 Lead Entity, City of Kent",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "City of Kent",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/8568",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/17",
+        "END_DATE": "1/1/20",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2459959984,
+          47.3686182591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "McSorley Cr Pocket Estuary Restoration Design",
+        "description": "<h1>McSorley Cr Pocket Estuary Restoration Design</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/8653\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "McSorley Cr Pocket Estuary Restoration Design",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "In cooperation with Washington State Parks, King County will complete a feasibility study and select a preferred restoration alternative for the McSorley Creek Pocket Estuary at Saltwater State Park in Des Moines.  The future restoration project will a) remove fill material to restore natural ecosystem processes to 1 acre of intertidal habitat at the creek delta, b) remove rock armoring along 150 feet along both banks of McSorley Creek upstream from the mouth, c) restore the stream channel, and d) remove as much of the 2500 feet of marine shoreline armoring as possible to maximize habitat benefits while maintaining protection of known cultural resources. The preferred alternative will be developed to preliminary and then final project design in accordance with Manual 18 Appendix D-2 and D-3, including quantities of beach fill material removal necessary to restore the natural slope and landscape plans to revegetate a riparian buffer.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Washington State Parks, WRIA 9 Lead Entity, Puget Sound Acquisition and Restoration, King Co Water & Land Res, SRFB - Salmon Recovery Funding Board, Lisa Lantz, King County",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/8653",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "6/1/06",
+        "END_DATE": "7/24/08",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3231335817,
+          47.3729037906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Myrtle Edwards Park Habitat Rehabilitation, NS-2",
+        "description": "<h1>Myrtle Edwards Park Habitat Rehabilitation, NS-2</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/8667\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Myrtle Edwards Park Habitat Rehabilitation, NS-2",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project created a pocket beach in Myrtle Edwards Park on Elliott Bay in Seattle and to the north of the park. Riprap armoring was removed and the slopes graded back to create a natural slope.  The pocket beach has a mix of fishmix (sand and gravel) of sediments placed on them.  Native riparian vegetation was planted. ",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Port of Seattle, WRIA 9 Lead Entity, City of Seattle",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "WRIA 9 Lead Entity",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/8667",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "3/16/09",
+        "END_DATE": "9/30/09",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3725096617,
+          47.6257254382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Wind's Weir Shallow Water Habitat Rehabilitation DUW-10",
+        "description": "<h1>North Wind's Weir Shallow Water Habitat Rehabilitation DUW-10</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/9045\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "North Wind's Weir Shallow Water Habitat Rehabilitation DUW-10",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "King County, in partnership with the Army Corps of Engineers, Seattle District, created two acres of off-channel, shallow water resting and rearing habitat in the Duwamish River \"transition zone\" at North Wind's Weir (river mile 6.3) along the right bank.  Project included the excavation of two acres of off-channel habitat and planting of native vegetation.  The site was previously used for a variety of industrial uses, resulting in low-level hydrocarbon contamination.  Soil remediation occurred in two phases; Phase 1 for compliance was completed in 2008, Phase 2 for fish and wildlife habitat was completed in 2009-2010.\n",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity, US Army Corps of Engineers (USACE), King Co Water & Land Res, King Conservation District, City of Tukwila, SRFB - Salmon Recovery Funding Board, Earth Corps, King County - WLRD - CIP Project Manager",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - CIP Project Manager",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/9045",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/06",
+        "END_DATE": "3/1/08",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2958,
+          47.5036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shallow Water Habitat Creation (20 acres) at RM 7.0 - 5.5, DUW-7",
+        "description": "<h1>Shallow Water Habitat Creation (20 acres) at RM 7.0 - 5.5, DUW-7</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/9046\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Shallow Water Habitat Creation (20 acres) at RM 7.0 - 5.5, DUW-7",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Create a minimum of 20 acres of new off-channel shallow water/marsh habitat with associated riparian vegetation.  The 20 acres created in this area would be in addition to acreage created by WRIA 9 Salmon Habitat Plan Project DUW-10: North Wind's Weir.  An interdiary step prior to conducting this project would be the development of a Transition Zone blueprint based upon the boundaries identified by the Duwamish tranition zone study ending in 2005.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "WRIA 9 Lead Entity",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/9046",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/15/11",
+        "END_DATE": "12/15/13",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2943401307,
+          47.5050511969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Newaukum Creek Mouth Restoration Between RM 0.0 and 4.3, MG-8",
+        "description": "<h1>Newaukum Creek Mouth Restoration Between RM 0.0 and 4.3, MG-8</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/9050\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Newaukum Creek Mouth Restoration Between RM 0.0 and 4.3, MG-8",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "This project has two components: 1) Placing large woody debris and planting native trees along the lower 4.3 miles of the creek, and 2) reconfiguring the lower 1,800 feet of the creek near the mouth.\n",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, King Co Water & Land Res, King Conservation District, King County - WLRD - Green River Basin Steward",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Green River Basin Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/9050",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/08",
+        "END_DATE": "6/30/14",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0652794838,
+          47.2814000276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olympic Sculpture Park Habitat Rehabilitation, NS-3",
+        "description": "<h1>Olympic Sculpture Park Habitat Rehabilitation, NS-3</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/9062\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "farm",
+        "PROJECT_NAME": "Olympic Sculpture Park Habitat Rehabilitation, NS-3",
+        "PROJECT_TYPE": "Water access, trails, recreation, parks, open space",
+        "PROJECT_TYPE_CODE": 11,
+        "PROJECT_DESCRIPTION": "The Olympic Sculpture Park (OSP) shoreline restoration is the first of its kind within Elliott Bay and represents an innovative approach to improving urban nearshore ecosystems. Originally the OSP site was operated for petroleum storage and distribution. The fuel storage caused sediment contamination and required clean up prior to any other use of the area. After the site was cleaned up, SAM purchased the OSP site in 1999 with the intent to create a public space for art. At this time, SAM owned two upland parcels and one subtidal parcel, with the City of Seattle owning a right-of-way at the waterÃ¢ÂÂs edge. This presented a unique opportunity for SAM and the City of Seattle to collaborate and capitalize on the OSPÃ¢ÂÂs location along Elliott Bay. \n",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Puget Sound Nearshore Ecosystem Restoration Project (PSNERP), Michelle Koehler, University of Washington WET, WRIA 9 Lead Entity, City of Seattle, Aquatic Lands Enhancement Account, Washington Department of Fish and Wildlife (WDFW), Seattle Art Museum, Seattle Public Utilities, King Conservation District, Federal Appropriations, Estuary Salmon Restoration Program (ESRP), SRFB - Salmon Recovery Funding Board, Julie Crittenden",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Julie Crittenden",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/9062",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/10",
+        "END_DATE": "12/31/10",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3575231394,
+          47.6162037571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Riverton Creek Habitat Rehab. Fish Project DUW-8",
+        "description": "<h1>Riverton Creek Habitat Rehab. Fish Project DUW-8</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/9952\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Riverton Creek Habitat Rehab. Fish Project DUW-8",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "The project includes installation of large, woody debris, removal of accumulated sediment, addition of gravel, and revegetation with native riaparian species.  Two flapgates at the mouth would be replaced with  self-regulating tidegates to allow normal tidal flushing while reducing flooding on Riverton Creek during high flows in the Duwamish.Removal of the flapgates and associated creek restoration will restore and enhance salmonid habitat within Riverton Creek and improve its connection to the Duwamish River, using natural processes and habitat elements to facilitate upstream migration and to provide juvenile off-channel rearing.  This would be accomplished by restoring a more natural tidal connection between the Duwamish River and Riverton Creek, restablishing reliable fish access to Riverton Creek, and rehabilitating the existing channel to provide productive rearing and refuge habitat for salmonid species including juvenile Chinook salmon.\n",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, City of Tukwila",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "SRFB - Salmon Recovery Funding Board",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/9952",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "10/1/04",
+        "END_DATE": "4/30/08",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.294383049,
+          47.4998351011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pautzke Levee Removal and Setback, MG-18",
+        "description": "<h1>Pautzke Levee Removal and Setback, MG-18</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/9953\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Pautzke Levee Removal and Setback, MG-18",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Remove levees, lower the elevation of terraces, and construct engineered logjams to reinstate floodplain connectivity and channel migration.  Restore relic side-channels and reconnect them to the river and off-channel sloughs.  Remove Japanese knotweek and other invasives and revegetate riparian and floodplain areas with native plants.  \n",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WRIA 9 Lead Entity, City of Auburn, King Co Water & Land Res, King Conservation District, King County - WLRD - Green River Basin Steward, SRFB - Salmon Recovery Funding Board",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "King County - WLRD - Green River Basin Steward",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/9953",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "1/1/14",
+        "END_DATE": "6/30/15",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1946692467,
+          47.3053698474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Riverview Park Project, LG-7",
+        "description": "<h1>Riverview Park Project, LG-7</h1><iframe src=\"http://waconnect.paladinpanoramic.com/project/250/9954\" width=\"100%\" height=\"750\"</iframe>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Riverview Park Project, LG-7",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Provide summer rearing habitat and high flow winter refuge through excavation of an off-channel area combined with placement of large wood and revegetation.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "SRFB - Salmon Recovery Funding Board, US Army Corps of Engineers (USACE), King Conservation District, City of Kent",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "City of Kent",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://waconnect.paladinpanoramic.com/project/250/9954",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "6/11/05",
+        "END_DATE": "3/4/09",
+        "DATE_NOTE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2462427616,
+          47.3717863165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "9 floodplains",
+        "description": "<h1>9 floodplains</h1><h3>Lead organization:</h3>The Nature Conservancy<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Floodplains by Design. Partnership of WA DOE, TNC, USGS, and PSP. In 2013, WA state legislature approved an initial $33 million to support 9 floodplains by design projects around Puget Sound. Each project will be conducted by a partnership of organizations.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "industrial",
+        "PROJECT_NAME": "9 floodplains",
+        "PROJECT_TYPE": "Research and monitoring",
+        "PROJECT_TYPE_CODE": 6,
+        "PROJECT_DESCRIPTION": "Floodplains by Design. Partnership of WA DOE, TNC, USGS, and PSP. In 2013, WA state legislature approved an initial $33 million to support 9 floodplains by design projects around Puget Sound. Each project will be conducted by a partnership of organizations.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "The Nature Conservancy",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://www.floodplainsbydesign.org",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4246025085,
+          47.5735147335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marysville to Brown's Point",
+        "description": "<h1>Marysville to Brown's Point</h1><h3>Lead organization:</h3>Army Corps of Engineers<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Phase I included the highly developed eastern shoreline of PS between Marysville and Brown's Point north of Tacoma - including the tidally influenced portions of the Duwamish and Snohomish Rivers. The area for Phase II of the study is still to be determined.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "industrial",
+        "PROJECT_NAME": "Marysville to Brown's Point",
+        "PROJECT_TYPE": "Research and monitoring",
+        "PROJECT_TYPE_CODE": 6,
+        "PROJECT_DESCRIPTION": "Phase I included the highly developed eastern shoreline of PS between Marysville and Brown's Point north of Tacoma - including the tidally influenced portions of the Duwamish and Snohomish Rivers. The area for Phase II of the study is still to be determined.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "http://lunkersguide.com/wp-content/uploads/2014/03/Browns-Point-4-1024x768.jpg",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Army Corps of Engineers, EPA",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Army Corps of Engineers",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "http://www.nws.usace.army.mil/",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4419403076,
+          47.3029814169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Longfellow Creek",
+        "description": "<h1>Longfellow Creek</h1><h3>Lead organization:</h3>Seattle Parks<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Levy provides funding for Green Seattle Partnership  to restore forested park land. The West Duwamish Greenbelt is over 800 and the largest contiguous forest in Seattle. Longfellow Creek greenspace is also a project in the watershed.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "danger",
+        "PROJECT_NAME": "Longfellow Creek",
+        "PROJECT_TYPE": "Forest restoration/protection/management",
+        "PROJECT_TYPE_CODE": 3,
+        "PROJECT_DESCRIPTION": "Levy provides funding for Green Seattle Partnership  to restore forested park land. The West Duwamish Greenbelt is over 800 and the largest contiguous forest in Seattle. Longfellow Creek greenspace is also a project in the watershed.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle Parks",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Seattle Parks",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.364203,
+          47.528587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kenco/City Light South",
+        "description": "<h1>Kenco/City Light South</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>\"Kenco/City Light South\" site</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "industrial",
+        "PROJECT_NAME": "Kenco/City Light South",
+        "PROJECT_TYPE": "Other projects",
+        "PROJECT_TYPE_CODE": 6,
+        "PROJECT_DESCRIPTION": "\"Kenco/City Light South\" site",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle City Light",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.312903,
+          47.561488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seattle City Light â Sea Tac",
+        "description": "<h1>Seattle City Light ï¿½ Sea Tac</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "industrial",
+        "PROJECT_NAME": "Seattle City Light â Sea Tac",
+        "PROJECT_TYPE": "Research and monitoring",
+        "PROJECT_TYPE_CODE": 6,
+        "PROJECT_DESCRIPTION": "Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle City Light",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.301089,
+          47.485113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seattle City Light â 23rd Ave",
+        "description": "<h1>Seattle City Light ï¿½ 23rd Ave</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "industrial",
+        "PROJECT_NAME": "Seattle City Light â 23rd Ave",
+        "PROJECT_TYPE": "Research and monitoring",
+        "PROJECT_TYPE_CODE": 6,
+        "PROJECT_DESCRIPTION": "Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle City Light",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Seattle City Light",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.361778,
+          47.551894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seattle City Light â Andover",
+        "description": "<h1>Seattle City Light ï¿½ Andover</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "industrial",
+        "PROJECT_NAME": "Seattle City Light â Andover",
+        "PROJECT_TYPE": "Research and monitoring",
+        "PROJECT_TYPE_CODE": 6,
+        "PROJECT_DESCRIPTION": "Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle City Light",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.360131,
+          47.568369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seattle City Light - Holdin",
+        "description": "<h1>Seattle City Light - Holdin</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "industrial",
+        "PROJECT_NAME": "Seattle City Light - Holdin",
+        "PROJECT_TYPE": "Research and monitoring",
+        "PROJECT_TYPE_CODE": 6,
+        "PROJECT_DESCRIPTION": "Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle City Light",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.355184,
+          47.533667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seattle City Light â 9th Ave",
+        "description": "<h1>Seattle City Light ï¿½ 9th Ave</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "industrial",
+        "PROJECT_NAME": "Seattle City Light â 9th Ave",
+        "PROJECT_TYPE": "Research and monitoring",
+        "PROJECT_TYPE_CODE": 6,
+        "PROJECT_DESCRIPTION": "Southwest Seattle Surplus Property Disposition Study: Seattle City Light has many parcels of surplus properties that are no longer needed for electrical distribution. City Light is participating in a study to produce recommendations for future use. Properties in the Duwamish include: 2100 SW Andover Streek, Seattle, 5601 23rd ave SW, 1605 SW Holden St, 2423 S 132nd St Sea Tac, 8820 9th ave SW",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle City Light",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.346708,
+          47.52401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seattle City Light Parcels",
+        "description": "<h1>Seattle City Light Parcels</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Seattle City Light has developed a comprehensive program to address the needs of wildlife that are affected by their operations. In the Land Management Program, City Light purchases key parcels of land for wildlife habitat.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "industrial",
+        "PROJECT_NAME": "Seattle City Light Parcels",
+        "PROJECT_TYPE": "Research and monitoring",
+        "PROJECT_TYPE_CODE": 6,
+        "PROJECT_DESCRIPTION": "Seattle City Light has developed a comprehensive program to address the needs of wildlife that are affected by their operations. In the Land Management Program, City Light purchases key parcels of land for wildlife habitat.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle City Light",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4070930481,
+          47.5801155024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Turning basin site owned by Seattle City Light, adjacent to Boeing Company office complex",
+        "description": "<h1>Turning basin site owned by Seattle City Light, adjacent to Boeing Company office complex</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Turning basin site owned by Seattle City Light, adjacent to Boeing Company office complex</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "industrial",
+        "PROJECT_NAME": "Turning basin site owned by Seattle City Light, adjacent to Boeing Company office complex",
+        "PROJECT_TYPE": "Research and monitoring",
+        "PROJECT_TYPE_CODE": 6,
+        "PROJECT_DESCRIPTION": "Turning basin site owned by Seattle City Light, adjacent to Boeing Company office complex",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle City Light",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4122428894,
+          47.5788417346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lower Fauntleroy Creek",
+        "description": "<h1>Lower Fauntleroy Creek</h1><h3>Lead organization:</h3>Seattle Public Utilities<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Lower Fauntleroy Creek and Estuary Water Quality and Habitat Enhancements: ï¿½ Restored 895 sq ft of stream channel. Reconfigured the channel along the lower 200 feet of Fauntleroy Creek.ï¿½ Installed over 1,400 native plants along the 9 ft riparian area on either side of the channel, for a total of 2,690 sq ft. The property owners planted hundreds more.ï¿½ Treated a small patch of reed canary grassï¿½ Over 90 coho salmon have been seen using the channel in a single season since the restoration of the channel.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Lower Fauntleroy Creek",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Lower Fauntleroy Creek and Estuary Water Quality and Habitat Enhancements: â¢ Restored 895 sq ft of stream channel. Reconfigured the channel along the lower 200 feet of Fauntleroy Creek.â¢ Installed over 1,400 native plants along the 9 ft riparian area on either side of the channel, for a total of 2,690 sq ft. The property owners planted hundreds more.â¢ Treated a small patch of reed canary grassâ¢ Over 90 coho salmon have been seen using the channel in a single season since the restoration of the channel.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle Public Utilities",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Seattle Public Utilities",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.383075,
+          47.549555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal 108",
+        "description": "<h1>Terminal 108</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Diagonal Avenue South, Terminal 108. Created marsh, installed riparian vegetation.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Terminal 108",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Diagonal Avenue South, Terminal 108. Created marsh, installed riparian vegetation.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Port of Seattle",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Port of Seattle",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3142242432,
+          47.5216060332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Duwamish River Habitat Maintenance and Monitoring",
+        "description": "<h1>Duwamish River Habitat Maintenance and Monitoring</h1><h3>Lead organization:</h3>The Nature Consortium<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Duwamish River Habitat Maintenance and Monitoring</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Duwamish River Habitat Maintenance and Monitoring",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Duwamish River Habitat Maintenance and Monitoring",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "The Nature Consortium",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.354763,
+          47.567671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal 105",
+        "description": "<h1>Terminal 105</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Terminal 105 Public Access Site. Created or restored marsh, installed riparian vegetation, removed fill.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Terminal 105",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Terminal 105 Public Access Site. Created or restored marsh, installed riparian vegetation, removed fill.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Port of Seattle",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.350815,
+          47.567829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kuhlmann-Thomas Creek",
+        "description": "<h1>Kuhlmann-Thomas Creek</h1><h3>Lead organization:</h3>Wild Fish Conservancy<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Kuhlmann-Thomas Creek R6. WFC will remove a partial barrier to fish passage at the Kuhlmann Property on Thomas Creek and install a 10' span x 15' long x 5' wide precast box culvert. The deck of the culvert will serve as the road surface. Some resurfacing of the road will be necessary, but the road elevation doesn't need to be altered as it may affect the wetland hydrology and increase the footprint area into the wetland.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Kuhlmann-Thomas Creek",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Kuhlmann-Thomas Creek R6. WFC will remove a partial barrier to fish passage at the Kuhlmann Property on Thomas Creek and install a 10' span x 15' long x 5' wide precast box culvert. The deck of the culvert will serve as the road surface. Some resurfacing of the road will be necessary, but the road elevation doesn't need to be altered as it may affect the wetland hydrology and increase the footprint area into the wetland.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Wild Fish Conservancy",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.343031,
+          47.620896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Route 509 & 99 Intersection",
+        "description": "<h1>Route 509 & 99 Intersection</h1><h3>Lead organization:</h3>WA Dept. of Transportation<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Mudlfat and marsh creation/restoration on the Duwamish waterway in Seattle, at the 509 and 99 intersection., about 47.537980, -122.333504.ï¿½</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Route 509 & 99 Intersection",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Mudlfat and marsh creation/restoration on the Duwamish waterway in Seattle, at the 509 and 99 intersection., about 47.537980, -122.333504. ",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "WA Dept. of Transportation",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333504,
+          47.53798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Puget Creek Estuary",
+        "description": "<h1>Puget Creek Estuary</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Puget Creek Estuary. Restored shoreline, created or restored marsh, installed riparian vegetation, removed fill.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Puget Creek Estuary",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Puget Creek Estuary. Restored shoreline, created or restored marsh, installed riparian vegetation, removed fill.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Port of Seattle",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3533630371,
+          47.5511585829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seattle City Light ??North site",
+        "description": "<h1>Seattle City Light ??North site</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>\"City Light North\" site: Conceptual plans call for creating shallow water transition zone habitat, wetland enhancement, planting of submergent and emergent vegetation, and creation of shallow water transition zone habitat, at river mile 5 on the Duwamish</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Seattle City Light ??North site",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "\"City Light North\" site: Conceptual plans call for creating shallow water transition zone habitat, wetland enhancement, planting of submergent and emergent vegetation, and creation of shallow water transition zone habitat, at river mile 5 on the Duwamish",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle City Light",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4161911011,
+          47.5773363327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seattle Seawall Project",
+        "description": "<h1>Seattle Seawall Project</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Seattle Seawall Project: replacing seawall and removing viaduct. The Seawall Project is replacing the seawall along Seattle's waterfront to protect critical infrastructure and utilities and also take advantage of a once-in-a-lifetime opportunity to enhance the habitat through this area.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Seattle Seawall Project",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Seattle Seawall Project: replacing seawall and removing viaduct. The Seawall Project is replacing the seawall along Seattle's waterfront to protect critical infrastructure and utilities and also take advantage of a once-in-a-lifetime opportunity to enhance the habitat through this area.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Port of Seattle",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3407459259,
+          47.6052371314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Riverside Street End",
+        "description": "<h1>South Riverside Street End</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>South Riverside Street End - restored shoreline</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "South Riverside Street End",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "South Riverside Street End - restored shoreline",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Port of Seattle",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4206542969,
+          47.5751360521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Viaduct Seawall",
+        "description": "<h1>Viaduct Seawall</h1><h3>Lead organization:</h3>Seattle Dept. of Transportation<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Seattle Seawall Project: replacing seawall and removing viaduct. The Seawall Project is replacing the seawall along Seattle's waterfront to protect critical infrastructure and utilities and also take advantage of a once-in-a-lifetime opportunity to enhance the habitat through this area.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Viaduct Seawall",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "Seattle Seawall Project: replacing seawall and removing viaduct. The Seawall Project is replacing the seawall along Seattle's waterfront to protect critical infrastructure and utilities and also take advantage of a once-in-a-lifetime opportunity to enhance the habitat through this area.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle Dept. of Transportation",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3421192169,
+          47.6077254841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seattle City Light South Park",
+        "description": "<h1>Seattle City Light South Park</h1><h3>Lead organization:</h3>Seattle City Light<h3>start date:</h3>12/31/12<h3>end date:</h3><p>City Light South restoration site. Installed riparian vegetation, large woody debris, and gravel along the Dwamish River (South Park neighborhood).</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "swimming",
+        "PROJECT_NAME": "Seattle City Light South Park",
+        "PROJECT_TYPE": "River/stream/wetlands restoration/conservation/flood protection",
+        "PROJECT_TYPE_CODE": 7,
+        "PROJECT_DESCRIPTION": "City Light South restoration site. Installed riparian vegetation, large woody debris, and gravel along the Dwamish River (South Park neighborhood).",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle City Light",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325736,
+          47.531094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Longfellow Creek at Thistle Street",
+        "description": "<h1>Longfellow Creek at Thistle Street</h1><h3>Lead organization:</h3>Seattle Public Utilities<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Longfellow Creek at Thistle Street: Improve the quality of 7,500 square feet (.17 acres) of riparian area bordering LongfellowCreek adjacent to Chief Seattle High School.ï¿½ Determine the survival rates of a 2003 planting project and remove invasive species cover, including Himalayan blackberry using manual control methods.ï¿½ Plant native species in 7500 sq ft.ï¿½ Use EarthCorpsï¿½ Summer Parks Corps program.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "theatre",
+        "PROJECT_NAME": "Longfellow Creek at Thistle Street",
+        "PROJECT_TYPE": "Tree planting and invasive species removal",
+        "PROJECT_TYPE_CODE": 9,
+        "PROJECT_DESCRIPTION": "Longfellow Creek at Thistle Street: Improve the quality of 7,500 square feet (.17 acres) of riparian area bordering LongfellowCreek adjacent to Chief Seattle High School.â¢ Determine the survival rates of a 2003 planting project and remove invasive species cover, including Himalayan blackberry using manual control methods.â¢ Plant native species in 7500 sq ft.â¢ Use EarthCorpsâ Summer Parks Corps program.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle Public Utilities",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Seattle Public Utilities",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.366014,
+          47.528271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camp Long",
+        "description": "<h1>Camp Long</h1><h3>Lead organization:</h3>Seattle Parks<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Camp Long: forest restoration, remove invasive plants, plant new native trees, monitor restoration sites</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "theatre",
+        "PROJECT_NAME": "Camp Long",
+        "PROJECT_TYPE": "Tree planting and invasive species removal",
+        "PROJECT_TYPE_CODE": 9,
+        "PROJECT_DESCRIPTION": "Camp Long: forest restoration, remove invasive plants, plant new native trees, monitor restoration sites",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle Parks",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3454666138,
+          47.5436271617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Longfellow Creek â 2",
+        "description": "<h1>Longfellow Creek ï¿½ 2</h1><h3>Lead organization:</h3>Seattle Public Utilities<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Longfellow Creek: many restoration projects. Improve flow, erosion control and fish passage, control invasive weeds, conducted spawning surveys.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "theatre",
+        "PROJECT_NAME": "Longfellow Creek â 2",
+        "PROJECT_TYPE": "Tree planting and invasive species removal",
+        "PROJECT_TYPE_CODE": 9,
+        "PROJECT_DESCRIPTION": "Longfellow Creek: many restoration projects. Improve flow, erosion control and fish passage, control invasive weeds, conducted spawning surveys.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle Public Utilities",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.363576889,
+          47.5478564776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal 117",
+        "description": "<h1>Terminal 117</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Terminal 117. T-117 uplands soil cleanup construction began on schedule in June 2013. During this construction, steel sheet piling is used to isolate contaminated soil and water from the river. PCB contaminated soil is excavated and hauled offsite to a licensed waste landfill. Several unanticipated underground storage tanks and barrels containing waste oil and other remains have been uncovered on-site; but there have been no impacts or threats to the community from the discovery and handling of these materi</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "zoo",
+        "PROJECT_NAME": "Terminal 117",
+        "PROJECT_TYPE": "Water quality improvements",
+        "PROJECT_TYPE_CODE": 10,
+        "PROJECT_DESCRIPTION": "Terminal 117. T-117 uplands soil cleanup construction began on schedule in June 2013. During this construction, steel sheet piling is used to isolate contaminated soil and water from the river. PCB contaminated soil is excavated and hauled offsite to a licensed waste landfill. Several unanticipated underground storage tanks and barrels containing waste oil and other remains have been uncovered on-site; but there have been no impacts or threats to the community from the discovery and handling of these materi",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Port of Seattle",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Port of Seattle",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3119926453,
+          47.5267644426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal 107",
+        "description": "<h1>Terminal 107</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Terminal 107. Park completed in 2000, including shoreline access, pathways, and habitat restoration area. In order to create this special park, businesses and container cargo facilities were relocated to Terminals 5 and 18.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "farm",
+        "PROJECT_NAME": "Terminal 107",
+        "PROJECT_TYPE": "Water access, trails, recreation, parks, open space",
+        "PROJECT_TYPE_CODE": 11,
+        "PROJECT_DESCRIPTION": "Terminal 107. Park completed in 2000, including shoreline access, pathways, and habitat restoration area. In order to create this special park, businesses and container cargo facilities were relocated to Terminals 5 and 18.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Port of Seattle",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "Port of Seattle",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3471832275,
+          47.5528964495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olympic Sculpture Park â 2",
+        "description": "<h1>Olympic Sculpture Park ï¿½ 2</h1><h3>Lead organization:</h3>Seattle Parks<h3>start date:</h3>12/31/12<h3>end date:</h3><p>Olympic Sculpture Park - constructed in 2007 on Elliott Bay. Restoration was done along the shoreline, and a 'brown field' turned into a 'green field.' Constructed embayment in the nearshore to provide salmon habitat. Monitoring assessed the ecological performance of habitat modifications.</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "farm",
+        "PROJECT_NAME": "Olympic Sculpture Park â 2",
+        "PROJECT_TYPE": "Water access, trails, recreation, parks, open space",
+        "PROJECT_TYPE_CODE": 11,
+        "PROJECT_DESCRIPTION": "Olympic Sculpture Park - constructed in 2007 on Elliott Bay. Restoration was done along the shoreline, and a 'brown field' turned into a 'green field.' Constructed embayment in the nearshore to provide salmon habitat. Monitoring assessed the ecological performance of habitat modifications.",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Seattle Parks",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3523330688,
+          47.6158841358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Park 8th Avenue",
+        "description": "<h1>South Park 8th Avenue</h1><h3>Lead organization:</h3>Port of Seattle<h3>start date:</h3>12/31/12<h3>end date:</h3><p>South Park 8th Avenue Public - restored shoreline and public access</p>",
+        "marker-size": "large",
+        "marker-color": "#1087bf",
+        "marker-symbol": "farm",
+        "PROJECT_NAME": "South Park 8th Avenue",
+        "PROJECT_TYPE": "Water access, trails, recreation, parks, open space",
+        "PROJECT_TYPE_CODE": 11,
+        "PROJECT_DESCRIPTION": "South Park 8th Avenue Public - restored shoreline and public access",
+        "LOCATION_LINK": "",
+        "UPLOAD_PHOTO": "",
+        "DOC_LINK": "",
+        "ORGANIZATIONS": "Port of Seattle",
+        "CONTACT_EMAIL": "email@example.com",
+        "CONTACT_ORGANIZATION": "UNLISTED",
+        "CONTACT_PHONE": "",
+        "CONTACT_WEBSITE": "",
+        "SOCIAL_LINK": "",
+        "DATA_ENTRY_NAME": "Green Duwamish Watershed",
+        "DATA_ENTRY_PHONE": "555-555-5555",
+        "PROJECT_DATE": "12/31/12",
+        "END_DATE": "",
+        "DATE_NOTE": "ongoing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322935,
+          47.525827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.17071533203125,
+              47.49076091764254
+            ],
+            [
+              -122.17002868652344,
+              47.48194469821279
+            ],
+            [
+              -122.15080261230469,
+              47.4828727909934
+            ],
+            [
+              -122.15080261230469,
+              47.50143120349543
+            ],
+            [
+              -122.17071533203125,
+              47.49076091764254
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#d44747",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#7e68a7",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.15526580810547,
+              47.49145687194459
+            ],
+            [
+              -122.12608337402342,
+              47.49308072945064
+            ],
+            [
+              -122.12368011474611,
+              47.48078455918
+            ],
+            [
+              -122.13912963867188,
+              47.46987800000272
+            ],
+            [
+              -122.15080261230469,
+              47.46987800000272
+            ],
+            [
+              -122.16041564941405,
+              47.4745193657043
+            ],
+            [
+              -122.15526580810547,
+              47.49145687194459
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
