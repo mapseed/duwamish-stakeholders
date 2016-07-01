@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Diagonal Avenue South Public Shoreline Access",
+        "Photo": "",
+        "marker-color": "#cf1717"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344468832,
+          47.5607378557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Seattle College",
+        "Photo": "",
+        "marker-color": "#cf1718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3243844509,
+          47.541671712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Rosso Nursery Site",
+        "Photo": "https://smartercleanup-api.s3.amazonaws.com/attachments/Ppg9lLG-rosso.jpg",
+        "marker-color": "#cf1719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3183709383,
+          47.545347173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wet Weather Treatment Station (Taco time site)",
+        "Photo": "https://smartercleanup-api.s3.amazonaws.com/attachments/PpfyrDS-wet-weather-gt.jpg",
+        "marker-color": "#cf1720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3310899734,
+          47.5450321436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": " Bike/Pedestrian connections and programming at Georgetown Steam Plant ",
+        "Photo": "https://smartercleanup-api.s3.amazonaws.com/attachments/PpfyQlW-steamplant.jpg",
+        "marker-color": "#cf1721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3163700104,
+          47.5428884448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Improvements to Ruby Chow Park",
+        "Photo": "https://smartercleanup-api.s3.amazonaws.com/attachments/PpfwbBL-WEB-Ruby_Chow_2.jpg",
+        "marker-color": "#cf1722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3151898384,
+          47.5466977949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Railway Spur between Airport Way and Georgetown Playfield",
+        "Photo": "",
+        "marker-color": "#cf1723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3204308748,
+          47.5516582255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Ave S- Streetscape & Safety Improvements",
+        "Photo": "",
+        "marker-color": "#cf1724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3225605488,
+          47.5379344273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Warsaw St - Streetscape & Safety Improvements",
+        "Photo": "",
+        "marker-color": "#cf1725"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3206186295,
+          47.5441775715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Intersection - 8th Ave S and East Marginal Way",
+        "Photo": "",
+        "marker-color": "#cf1726"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3225551844,
+          47.5398356956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corson Vacant Lots",
+        "Photo": "",
+        "marker-color": "#cf1727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3231291771,
+          47.5435496694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Slip 4 Overlook / Duwamish Overlook",
+        "Photo": "",
+        "marker-color": "#cf1728"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319341898,
+          47.5370942259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1st Ave Boat Ramp / Duwamish Overlook",
+        "Photo": "",
+        "marker-color": "#cf1729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3337775469,
+          47.5430188074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bike/Pedestrian connections to Beacon Hill",
+        "Photo": "",
+        "marker-color": "#cf1730"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3139345646,
+          47.547494392
+        ]
+      }
+    }
+  ]
+}
