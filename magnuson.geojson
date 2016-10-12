@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "kite-park",
+        "description": "<h2>Kite Park</h2><img src=”https://wheresmybackpack.files.wordpress.com/2013/06/seattle-fin-project.jpg?w=640&h=360“><p>ipsen lorem</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24857449531555,
+          47.68236436318458
+        ]
+      }
+    }
+  ]
+}
