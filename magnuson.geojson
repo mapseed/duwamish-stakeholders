@@ -8,7 +8,7 @@
         "marker-size": "medium",
         "marker-symbol": "park2",
         "title": "kite-park",
-        "description": "<h2>Kite Park</h2><img src=”https://wheresmybackpack.files.wordpress.com/2013/06/seattle-fin-project.jpg?w=640&h=360“><p>ipsen lorem</p>"
+        "description": "<h2>Kite Park</h2><img src="https://wheresmybackpack.files.wordpress.com/2013/06/seattle-fin-project.jpg?w=640&h=360"><p>ipsen lorem</p>"
       },
       "geometry": {
         "type": "Point",
